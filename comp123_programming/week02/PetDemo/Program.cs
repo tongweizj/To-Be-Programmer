@@ -36,9 +36,10 @@ namespace PetDemo
             }
 
             Console.WriteLine("Let us find where FOUR's dog!");
+            string owername = Console.ReadLine();
             foreach (Pet dog in dogList)
             {
-                if (dog.Owner == "FOUR")
+                if (dog.Owner == owername) //"FOUR"
                 {
                     Console.WriteLine(dog);
                 }

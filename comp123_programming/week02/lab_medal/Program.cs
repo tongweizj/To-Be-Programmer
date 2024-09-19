@@ -43,75 +43,67 @@ namespace lab_medal
             //prints a numbered list of 16 medals.
             Console.WriteLine("\n\nAll 16 medals");
             int index = 1;
-            foreach (var item in medals)
+            foreach (Medal item in medals)
             {
-                Console.WriteLine(index + "." + item);
-                index ++;
+                Console.WriteLine($"{index++}.{item}");
             }
             //prints a numbered list of 16 names (ONLY)
             Console.WriteLine("\n\nAll 16 names");
             index = 1;
-            foreach (var item in medals)
+            foreach (Medal item in medals)
             {
-                Console.WriteLine(index + "." + item.Name);
-                index++;
+                Console.WriteLine($"{index++}.{item.Name}");
             }
             //prints a numbered list of 9 gold medals
             Console.WriteLine("\n\nAll 9 gold medals");
             index = 1;
-            foreach (var item in medals)
+            foreach (Medal item in medals)
             {
                 if(item.Color == MedalColor.Gold)
                 {
-                    Console.WriteLine(index + "." + item);
-                    index++;
+                    Console.WriteLine($"{index++}.{item}");
                 }
                 
             }
             //prints a numbered list of 9 medals in 2012
             Console.WriteLine("\n\nAll 9 medals");
             index = 1;
-            foreach (var item in medals)
+            
+            foreach (Medal item in medals)
             {
                 if (item.Year == 2012)
                 {
-                    Console.WriteLine(index + "." + item);
-                    index++;
+                    Console.WriteLine($"{index++}.{item}");
                 }
-
             }
             //prints a numbered list of 4 gold medals in 2012
             Console.WriteLine("\n\nAll 4 gold medals");
             index = 1;
-            foreach (var item in medals)
+            foreach (Medal item in medals)
             {
                 if (item.Year == 2012 && item.Color == MedalColor.Gold)
                 {
-                    Console.WriteLine(index + "." + item);
-                    index++;
+                    Console.WriteLine($"{index++}.{ item}");
                 }
 
             }
             //prints a numbered list of 3 world record medals
             Console.WriteLine("\n\nAll 3 records");
             index = 1;
-            foreach (var item in medals)
+            foreach (Medal item in medals)
             {
-                if (item.IsRecord == true)
+                if (item.IsRecord)
                 {
-                    Console.WriteLine(index + "." + item);
-                    index++;
+                    Console.WriteLine($"{index++}.{item}");
                 }
-
             }
             //saving all the medal to file Medals.txt
             Console.WriteLine("\n\nSaving to file");
             TextWriter writer = new StreamWriter("Medals.txt"); // Setp-2
             index = 1;
-            foreach (var item in medals)
+            foreach (Medal item in medals)
             {
-                writer.WriteLine(index + "." + item);
-                index++;
+                writer.WriteLine($"{index++}.{ item}");
             }
             writer.Close(); // Setp-3
         }

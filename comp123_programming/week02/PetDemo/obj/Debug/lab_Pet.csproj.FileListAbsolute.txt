@@ -1,0 +1,7 @@
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\PetDemo\bin\Debug\PetDemo.exe.config
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\PetDemo\bin\Debug\PetDemo.exe
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\PetDemo\bin\Debug\PetDemo.pdb
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\PetDemo\obj\Debug\lab_Pet.csproj.AssemblyReference.cache
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\PetDemo\obj\Debug\lab_Pet.csproj.CoreCompileInputs.cache
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\PetDemo\obj\Debug\PetDemo.exe
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\PetDemo\obj\Debug\PetDemo.pdb

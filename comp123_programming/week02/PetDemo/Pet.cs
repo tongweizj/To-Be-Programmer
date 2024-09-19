@@ -9,7 +9,6 @@ namespace PetDemo
     internal class Pet
     {
         // data
-
         public string Name { get; set; }
         public  string Owner { get; private set; }
         public int Age { get; set; }
@@ -26,11 +25,10 @@ namespace PetDemo
             IsHouseTrained = false;
         }
         public override string ToString() {
-            return $"Look, here is dog, its name is {Name}, its owner is {Owner}, its {Age} year old, {(IsHouseTrained ? "it has trained in some house" : "")}. Its a {Description}";
+            return $"Look, this dog's name is {Name}, its owner is {Owner}, its {Age} year old, {(IsHouseTrained ? "it has trained in some house" : "")}. Its a {Description}";
         }
 
         // method
-
         public void Train()
         {
             IsHouseTrained = true;

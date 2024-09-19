@@ -25,19 +25,20 @@ namespace PetDemo
             Owner = "no one";
             IsHouseTrained = false;
         }
-        public override string ToString() { 
-            return $"Pet's name: {Name}, age: {Age}, it is a {Description}, it's owner is {Owner}, it has traned {IsHouseTrained} ";
+        public override string ToString() {
+            return $"Look, here is dog, its name is {Name}, its owner is {Owner}, its {Age} year old, {(IsHouseTrained ? "it has trained in some house" : "")}. Its a {Description}";
         }
 
         // method
 
         public void Train()
         {
-
+            IsHouseTrained = true;
         }
 
-        public void SetOwner(string owner) 
-        { 
+        public void SetOwner(string newOwner) 
+        {
+            Owner = newOwner;
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_Property\bin\Debug\lab_Property.exe.config
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_Property\bin\Debug\lab_Property.exe
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_Property\bin\Debug\lab_Property.pdb
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_Property\obj\Debug\lab_Property.csproj.AssemblyReference.cache
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_Property\obj\Debug\lab_Property.csproj.CoreCompileInputs.cache
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_Property\obj\Debug\lab_Property.exe
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_Property\obj\Debug\lab_Property.pdb

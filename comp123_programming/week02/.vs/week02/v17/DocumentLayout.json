@@ -1,12 +1,94 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B832B606-1404-4181-BC2D-AAC22DE7B439}|lab_medal\\lab_medal.csproj|c:\\users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\lab_medal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832B606-1404-4181-BC2D-AAC22DE7B439}|lab_medal\\lab_medal.csproj|solutionrelative:lab_medal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B832B606-1404-4181-BC2D-AAC22DE7B439}|lab_medal\\lab_medal.csproj|c:\\users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\lab_medal\\medal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B832B606-1404-4181-BC2D-AAC22DE7B439}|lab_medal\\lab_medal.csproj|solutionrelative:lab_medal\\medal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB817F83-3376-4D92-B0B6-53ACBCAD3370}|PetDemo\\lab_Pet.csproj|c:\\users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\petdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB817F83-3376-4D92-B0B6-53ACBCAD3370}|PetDemo\\lab_Pet.csproj|solutionrelative:petdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB817F83-3376-4D92-B0B6-53ACBCAD3370}|PetDemo\\lab_Pet.csproj|c:\\users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\petdemo\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB817F83-3376-4D92-B0B6-53ACBCAD3370}|PetDemo\\lab_Pet.csproj|solutionrelative:petdemo\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medal.cs",
+              "DocumentMoniker": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\lab_medal\\Medal.cs",
+              "RelativeDocumentMoniker": "lab_medal\\Medal.cs",
+              "ToolTip": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\lab_medal\\Medal.cs",
+              "RelativeToolTip": "lab_medal\\Medal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:17:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\lab_medal\\Program.cs",
+              "RelativeDocumentMoniker": "lab_medal\\Program.cs",
+              "ToolTip": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\lab_medal\\Program.cs",
+              "RelativeToolTip": "lab_medal\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwGwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:16:41.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\PetDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PetDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\PetDemo\\Program.cs",
+              "RelativeToolTip": "PetDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:33:49.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\PetDemo\\Pet.cs",
+              "RelativeDocumentMoniker": "PetDemo\\Pet.cs",
+              "ToolTip": "C:\\Users\\maxto\\workspace\\code_college\\comp123_programming\\week02\\PetDemo\\Pet.cs",
+              "RelativeToolTip": "PetDemo\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:19:13.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

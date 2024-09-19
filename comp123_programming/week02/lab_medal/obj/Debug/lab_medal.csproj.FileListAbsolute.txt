@@ -1,0 +1,7 @@
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_medal\obj\Debug\lab_medal.csproj.AssemblyReference.cache
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_medal\obj\Debug\lab_medal.csproj.CoreCompileInputs.cache
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_medal\bin\Debug\lab_medal.exe.config
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_medal\bin\Debug\lab_medal.exe
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_medal\bin\Debug\lab_medal.pdb
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_medal\obj\Debug\lab_medal.exe
+C:\Users\maxto\workspace\code_college\comp123_programming\week02\lab_medal\obj\Debug\lab_medal.pdb

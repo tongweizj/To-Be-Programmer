@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab", "lab\lab.csproj", "{9CA87874-F73A-4ADF-B718-12505A0F59FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astronaut", "Astronaut\Astronaut.csproj", "{BF3BAE5C-708F-43CE-9DD9-3C3CDFFFA9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA87874-F73A-4ADF-B718-12505A0F59FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA87874-F73A-4ADF-B718-12505A0F59FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA87874-F73A-4ADF-B718-12505A0F59FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA87874-F73A-4ADF-B718-12505A0F59FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3BAE5C-708F-43CE-9DD9-3C3CDFFFA9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3BAE5C-708F-43CE-9DD9-3C3CDFFFA9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3BAE5C-708F-43CE-9DD9-3C3CDFFFA9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3BAE5C-708F-43CE-9DD9-3C3CDFFFA9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6E23F4-33E2-4081-B137-BF447D4F8C09}
+	EndGlobalSection
+EndGlobal

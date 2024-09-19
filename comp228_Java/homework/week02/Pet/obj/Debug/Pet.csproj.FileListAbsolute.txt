@@ -1,0 +1,7 @@
+C:\Users\tongweizj\OneDrive\workspace\homework\week02\Pet\bin\Debug\Pet.exe.config
+C:\Users\tongweizj\OneDrive\workspace\homework\week02\Pet\bin\Debug\Pet.exe
+C:\Users\tongweizj\OneDrive\workspace\homework\week02\Pet\bin\Debug\Pet.pdb
+C:\Users\tongweizj\OneDrive\workspace\homework\week02\Pet\obj\Debug\Pet.csproj.AssemblyReference.cache
+C:\Users\tongweizj\OneDrive\workspace\homework\week02\Pet\obj\Debug\Pet.csproj.CoreCompileInputs.cache
+C:\Users\tongweizj\OneDrive\workspace\homework\week02\Pet\obj\Debug\Pet.exe
+C:\Users\tongweizj\OneDrive\workspace\homework\week02\Pet\obj\Debug\Pet.pdb

@@ -1,0 +1,7 @@
+C:\Users\301034450\Desktop\week-1-panda\CarDemo\bin\Debug\CarDemo.exe.config
+C:\Users\301034450\Desktop\week-1-panda\CarDemo\bin\Debug\CarDemo.exe
+C:\Users\301034450\Desktop\week-1-panda\CarDemo\bin\Debug\CarDemo.pdb
+C:\Users\301034450\Desktop\week-1-panda\CarDemo\obj\Debug\CarDemo.csproj.AssemblyReference.cache
+C:\Users\301034450\Desktop\week-1-panda\CarDemo\obj\Debug\CarDemo.csproj.CoreCompileInputs.cache
+C:\Users\301034450\Desktop\week-1-panda\CarDemo\obj\Debug\CarDemo.exe
+C:\Users\301034450\Desktop\week-1-panda\CarDemo\obj\Debug\CarDemo.pdb

@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\week02\FileIODemo\bin\Debug\FileIODemo.exe.config
+H:\Visual Studio 2022\week02\FileIODemo\bin\Debug\FileIODemo.exe
+H:\Visual Studio 2022\week02\FileIODemo\bin\Debug\FileIODemo.pdb
+H:\Visual Studio 2022\week02\FileIODemo\obj\Debug\FileIODemo.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\week02\FileIODemo\obj\Debug\FileIODemo.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\week02\FileIODemo\obj\Debug\FileIODemo.exe
+H:\Visual Studio 2022\week02\FileIODemo\obj\Debug\FileIODemo.pdb

@@ -6,24 +6,25 @@ using System.Threading.Tasks;
 
 namespace lab_Time
 {
-    enum TimeFormat { Mil, Hour12, Hour24}
+    enum TimeFormat {Mil, Hour12, Hour24}
     internal class Time
     {
-        public TimeFormat TIME_FORMAT { get; private set; }
+        private static TimeFormat TIME_FORMAT;
         public int Hour { get; }
         public int Minute { get; }
 
         // Constructor
-        public Time(int hour=0, int minute=0) {
-            Hour = hour; 
-            Minute = minute;
+        public Time(int hour = 0, int minute = 0)
+        {
+            Hour = hour>24?0:hour;
+            Minute = minute>60?0:minute;
             TIME_FORMAT = TimeFormat.Hour12;
         }
-        public override string ToString() 
+        public override string ToString()
         {
-            string hour = Hour < 12 ? $"0{Hour}" : Hour.ToString();
+            string hour = Hour < 10 ? $"0{Hour}" : Hour.ToString();
             string min = Minute.ToString();
-            
+
             if (Minute < 10)
             {
                 min = $"0{min}";
@@ -37,10 +38,11 @@ namespace lab_Time
             {
                 date = $"{hour}:{min}";
             }
-            else 
+            else
             {
-                if (Hour > 12) { 
-                    hour = (Hour-12).ToString();
+                if (Hour > 12)
+                {
+                    hour = (Hour - 12).ToString();
                     date = $"{hour}:{min} PM";
                 }
                 else
@@ -48,15 +50,13 @@ namespace lab_Time
                     hour = Hour.ToString();
                     date = $"{hour}:{min} AM";
                 }
-
-
             }
             return date;
         }
 
-        public void SetFormat(TimeFormat format)
+        public static void SetTimeFormat(TimeFormat time_format)
         {
-            TIME_FORMAT = format;
+            TIME_FORMAT = time_format;
         }
     }
 }

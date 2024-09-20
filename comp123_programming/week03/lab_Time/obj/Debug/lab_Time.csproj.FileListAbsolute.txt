@@ -1,0 +1,7 @@
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_Time\bin\Debug\lab_Time.exe.config
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_Time\bin\Debug\lab_Time.exe
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_Time\bin\Debug\lab_Time.pdb
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_Time\obj\Debug\lab_Time.csproj.AssemblyReference.cache
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_Time\obj\Debug\lab_Time.csproj.CoreCompileInputs.cache
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_Time\obj\Debug\lab_Time.exe
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_Time\obj\Debug\lab_Time.pdb

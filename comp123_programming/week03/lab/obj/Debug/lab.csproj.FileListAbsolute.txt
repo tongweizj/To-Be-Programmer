@@ -1,7 +1,0 @@
-C:\Users\maxto\workspace\code_college\comp123_programming\week03\lab\bin\Debug\lab.exe.config
-C:\Users\maxto\workspace\code_college\comp123_programming\week03\lab\bin\Debug\lab.exe
-C:\Users\maxto\workspace\code_college\comp123_programming\week03\lab\bin\Debug\lab.pdb
-C:\Users\maxto\workspace\code_college\comp123_programming\week03\lab\obj\Debug\lab.csproj.AssemblyReference.cache
-C:\Users\maxto\workspace\code_college\comp123_programming\week03\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
-C:\Users\maxto\workspace\code_college\comp123_programming\week03\lab\obj\Debug\lab.exe
-C:\Users\maxto\workspace\code_college\comp123_programming\week03\lab\obj\Debug\lab.pdb

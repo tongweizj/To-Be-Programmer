@@ -5,3 +5,10 @@ C:\Users\maxto\workspace\code_college\comp123_programming\week03\demo_date\obj\D
 C:\Users\maxto\workspace\code_college\comp123_programming\week03\demo_date\obj\Debug\demo_date.csproj.CoreCompileInputs.cache
 C:\Users\maxto\workspace\code_college\comp123_programming\week03\demo_date\obj\Debug\demo_date.exe
 C:\Users\maxto\workspace\code_college\comp123_programming\week03\demo_date\obj\Debug\demo_date.pdb
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\demo_date\bin\Debug\demo_date.exe.config
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\demo_date\bin\Debug\demo_date.exe
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\demo_date\bin\Debug\demo_date.pdb
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\demo_date\obj\Debug\demo_date.csproj.AssemblyReference.cache
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\demo_date\obj\Debug\demo_date.csproj.CoreCompileInputs.cache
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\demo_date\obj\Debug\demo_date.exe
+C:\Users\wtong\workspace\code_college\comp123_programming\week03\demo_date\obj\Debug\demo_date.pdb

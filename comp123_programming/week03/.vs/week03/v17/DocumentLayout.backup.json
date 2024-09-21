@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|solutionrelative:lab_song\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|c:\\users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|solutionrelative:lab_song\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -21,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 740,
+          "DockedWidth": 736,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "lab_song\\Library.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T03:43:40.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T03:43:40.33Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "lab_song\\Song.cs",
               "ToolTip": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Song.cs",
               "RelativeToolTip": "lab_song\\Song.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T03:34:23.306Z",
               "EditorCaption": ""
@@ -53,7 +52,7 @@
           ]
         },
         {
-          "DockedWidth": 494,
+          "DockedWidth": 498,
           "SelectedChildIndex": 0,
           "Children": [
             {

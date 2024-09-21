@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\lab_song",
     "\\lab_Time"
   ],
-  "SelectedNode": "\\lab_Time\\Time.cs",
+  "SelectedNode": "\\lab_song\\Song.cs",
   "PreviewInSolutionExplorer": false
 }

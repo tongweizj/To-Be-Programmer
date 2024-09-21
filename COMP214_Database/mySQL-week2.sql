@@ -33,9 +33,16 @@ display the employee's
 2)    Order your results by the number of years employed.  
 Round the number of years employed up to the closest whole number.
 */
-select LAST_NAME, HIRE_DATE, round(months_between(hire_date, '2011/08/25')/12) AS "Years worked"
+
+-- select LAST_NAME, HIRE_DATE, round(months_between(TO_DATE('2024/09/20','YYYY/MM/DD'),hire_date)/12) AS "Years worked"
+-- from employees
+-- where hire_date < to_date('01/10/2016', 'dd-mm-yy');   
+select LAST_NAME, 
+       HIRE_DATE, 
+       round(months_between(sysdate,hire_date)/12) AS "Years_worked"
 from employees
-where hire_date < to_date('01/10/2016', 'dd-mm-yy');
+where hire_date < to_date('01/10/2016', 'dd-mm-yy')
+order by "Years_worked" DESC; 
 
 /*
 Q5. Display each employee's last name, hire date, 
@@ -47,11 +54,31 @@ but only for those hired after January 1, 2016.
     TUESDAY, August the Thirty-First of year 2016
 
 */
-select LAST_NAME, hire_date,
+select LAST_NAME, 
+       hire_date,
+       ADD_MONths(hire_date, 12) as OneYearAnniv,
+       Next_Day(ADD_MONths(hire_date, 12), 'Tuesday') as review_date
 from employees
 where hire_date > to_date('01/01/2016', 'dd-mm-yy');
+
 /*
 Q6: For all warehouses, display warehouse id, warehouse name, city, and state. 
 For warehouses with the null value for the state column, display 'unknown'. 
 */
+-- select w.warehouse_id,
+--        w.warehouse_name,
+--        w.location_id,
+--        l.city,
+--        nvl(l.state, 'unknown')
+-- from warehouses w LEFT OUTER JOIN locations l 
+-- on w.LOCATION_ID == l.LOCATION_ID
+-- using(location_id);
 
+select w.warehouse_id,
+       w.warehouse_name,
+       w.location_id,
+       l.city,
+       nvl(l.state, 'unknown')
+from warehouses w 
+LEFT OUTER JOIN locations l 
+on w.LOCATION_ID = l.LOCATION_ID;

@@ -6,9 +6,25 @@ using System.Threading.Tasks;
 
 namespace lab_song
 {
+    [Flags]
+    enum SongGenre
+    {
+        Unclassified = 0,
+        Pop = 0b1,
+        Rock = 0b10,
+        Blues = 0b100,
+        Country = 0b1_000,
+        Metal = 0b10_000,
+        Soul = 0b1000_000
+    }
     internal class Program
     {
         static void Main(string[] args)
+        {
+            Test();
+        }
+
+        public static void Test()
         {
             //To test the constructor and the ToString method
             Console.WriteLine(new Song("Baby", "Justin Bebier", 3.35, SongGenre.Pop));

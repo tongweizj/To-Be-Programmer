@@ -6,16 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab_song
 {
-    enum SongGenre 
-    { 
-        Unclassified = 0, 
-        Pop = 0b1,
-        Rock = 0b10,
-        Blues = 0b100,
-        Country = 0b1_000,
-        Metal = 0b10_000,
-        Soul = 0b1000_000 
-    }
+
     internal class Song
     {
         public string Artist { get; }
@@ -33,10 +24,42 @@ namespace lab_song
         }
         public override string ToString()
         {
-            return $"{Title} by {Artist} ({Genre}) {Length}min";
+            return $"{Title} by {Artist} ({genreToStr(Genre)}) {Length}min";
         }
-        public static SongGenre operator |(SongGenre lhs, SongGenre rhs)
-            =>
-       
+
+        private string genreToStr(SongGenre genre)
+        {
+            String genreStr = "";
+            //if (!Enum.IsDefined(typeof(SongGenre), Genre))
+            //{
+            //    genreStr = $"{SongGenre.Unclassified}";
+            //}
+
+            if ((genre & SongGenre.Rock) == SongGenre.Rock)
+                {
+                genreStr = (genreStr == "") ? $"{SongGenre.Rock}" : $"{genreStr}, {SongGenre.Rock}";
+            }
+            if ((genre & SongGenre.Blues) == SongGenre.Blues)
+            {
+                genreStr = (genreStr == "") ? $"{SongGenre.Blues}" : $"{genreStr}, {SongGenre.Rock}";
+            }
+            if ((genre & SongGenre.Country) == SongGenre.Country)
+            {
+                genreStr = (genreStr == "") ? $"{SongGenre.Country}" : $"{genreStr}, {SongGenre.Country}";
+            }
+            if ((genre & SongGenre.Soul) == SongGenre.Soul)
+            {
+                genreStr = (genreStr == "") ? $"{SongGenre.Soul}" : $"{genreStr}, {SongGenre.Soul}";
+            }
+            if ((genre & SongGenre.Pop) == SongGenre.Pop)
+            {
+                genreStr = (genreStr == "") ? $"{SongGenre.Pop}" : $"{genreStr}, {SongGenre.Pop}";
+            }
+            if ((genre & SongGenre.Metal) == SongGenre.Metal)
+            {
+                genreStr = (genreStr == "") ? $"{SongGenre.Metal}" : $"{genreStr}, {SongGenre.Metal}";
+            }
+            return genreStr;
+        }
     }
 }

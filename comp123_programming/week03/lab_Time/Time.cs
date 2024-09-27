@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -23,33 +24,19 @@ namespace lab_Time
         public override string ToString()
         {
             string hour = Hour < 10 ? $"0{Hour}" : Hour.ToString();
-            string min = Minute.ToString();
-
-            if (Minute < 10)
-            {
-                min = $"0{min}";
-            }
+            string min = Minute.ToString("D2");
             string date = "";
-            if (TIME_FORMAT == TimeFormat.Mil)
+            switch (TIME_FORMAT)
             {
-                date = $"{hour}{min}";
-            }
-            else if (TIME_FORMAT == TimeFormat.Hour24)
-            {
-                date = $"{hour}:{min}";
-            }
-            else
-            {
-                if (Hour > 12)
-                {
-                    hour = (Hour - 12).ToString();
-                    date = $"{hour}:{min} PM";
-                }
-                else
-                {
-                    hour = Hour.ToString();
-                    date = $"{hour}:{min} AM";
-                }
+                case TimeFormat.Mil:
+                    date = $"{hour}{min}";
+                    break;
+                case TimeFormat.Hour24:
+                    date = $"{hour}:{min}";
+                    break;
+                default:
+                    date = (Hour > 12) ?  $"{Hour - 12}:{min} PM" : $"{Hour}:{min} AM";
+                    break;
             }
             return date;
         }

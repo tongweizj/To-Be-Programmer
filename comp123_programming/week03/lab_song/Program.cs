@@ -23,11 +23,12 @@ namespace lab_song
         {
             Test();
         }
-
+        
         public static void Test()
         {
             //To test the constructor and the ToString method
             Console.WriteLine(new Song("Baby", "Justin Bebier", 3.35, SongGenre.Pop));
+            
             //This is first time that you are using the bitwise or. It is used to specify a combination of genres
             Console.WriteLine(new Song("The Promise", "Chris Cornell", 4.26,
             SongGenre.Country | SongGenre.Rock));

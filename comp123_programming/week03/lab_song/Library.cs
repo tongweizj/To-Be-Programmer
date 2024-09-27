@@ -14,48 +14,24 @@ namespace lab_song
         {
             songs.Clear();
             TextReader textReader = new StreamReader(filename);
-            string line;
-            bool next = true;
-            int type = 0;
+            string line="";
             string title = "";
             string artist = "";
             double length = 0.0;
             SongGenre genre = SongGenre.Unclassified;
-            while (next)
+            while ((title = textReader.ReadLine())!=null)
             {
-                line = textReader.ReadLine();
-                if (line == null)
-                {
-                    next = false;
-                }
-                switch (type) 
-                {
-                    case 0: 
-                        title = line;
-                        type++;
-                        break;
-                    case 1: 
-                        artist = line;
-                        type++;
-                        break;
-                     case 2:
-                        length = Convert.ToDouble(line);
-                        type++;
-                        break;
-                    case 3:
-                        Enum.TryParse(line, out genre);
-                        songs.Add(new Song(title,artist,length,genre));
-                        type = 0;
-                        break;
-                }
-            };
+                artist = textReader.ReadLine();
+                length = Convert.ToDouble(textReader.ReadLine());
+                Enum.TryParse(textReader.ReadLine(), out genre);
+                songs.Add(new Song(title, artist, length, genre));
+            }
             textReader.Close();
         }
         public static void DisplaySongs()
         {
             foreach (Song song in songs)
             {
-
                 Console.WriteLine(song); 
             }
 

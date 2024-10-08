@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,20 +8,21 @@ namespace Atom
 {
     public class Atom
     {
-        public string Name {  get; set; }
-        public string Symbol {  get; set; }
+        public string Name { get; set; }
+        public string Symbol { get; set; }
         public int Proton { get; set; }
         public int Neutron { get; set; }
         public double Weight { get; set; }
 
-        public Atom() {
+        public Atom()
+        {
             // Name = "NA";
             // Symbol = "Na";
             // Proton = 0;
             // Neutron = 0;
             // Weight = 0.0;
-         }
-        public Atom(string name,int proton, int neutron, double weight, string symbol)
+        }
+        public Atom(string name, int proton, int neutron, double weight, string symbol)
         {
             Name = name;
             Symbol = symbol;
@@ -30,7 +31,7 @@ namespace Atom
             Weight = weight;
 
         }
-       
+
         public override string ToString()
         {
             return $" Atom's name: {Name}, Symbol {Symbol}, Proton {Proton}, Neutron: {Neutron}, Weight: {Weight}";
@@ -42,8 +43,8 @@ namespace Atom
             return new Atom(objectDataList[0], int.Parse(objectDataList[1]), int.Parse(objectDataList[2]), double.Parse(objectDataList[3]), objectDataList[4]);
         }
         public static List<Atom> GetAtoms()
-        {  
-            List<Atom> elements = new List< Atom >();
+        {
+            List<Atom> elements = new List<Atom>();
             elements.Add(Atom.Parse("Hydrogen 1 0 1.0079 H"));
             elements.Add(Atom.Parse("Helium 2 2 4.0026 He")); ;
             elements.Add(Atom.Parse("Lithium 3 4 6.941 Li")); ;
@@ -153,8 +154,8 @@ namespace Atom
             elements.Add(Atom.Parse("Seaborgium 106 160 266 Sg"));
             elements.Add(Atom.Parse("Meitnerium 109 159 268 Mt"));
             elements.Add(Atom.Parse("Roentgenium 111 161 272 Rg"));
-            elements.Add(Atom.Parse("Hassium 108 169 277 Hs"));            
-            
+            elements.Add(Atom.Parse("Hassium 108 169 277 Hs"));
+
             return elements;
         }
     }

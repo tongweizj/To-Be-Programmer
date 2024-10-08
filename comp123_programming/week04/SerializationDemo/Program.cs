@@ -3,83 +3,87 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// Add the necessary namespace
-using System.Xml.Serialization;
-using System.Web;
 using System.Web.Script.Serialization;
+using System.IO;
+
 namespace SerializationDemo
 {
     class Pet
     {
         public string Name { get; set; }
-        public string Specis { get; set; }
+        public string Species { get; set; }
         public int Age { get; set; }
         public bool IsFemale { get; set; }
         public double Weight { get; set; }
 
-        public Pet(string name, string specis, int age, bool isFemale, double weight)
+        public Pet(string name, string species, int age, bool isFemale, double weight)
         {
             Name = name;
-            Specis = specis;
+            Species = species;
             Age = age;
             Weight = weight;
             IsFemale = isFemale;
         }
+
+        public Pet() { }
         public override string ToString()
         {
-            return $"{Name} {Specis} {Age}mnt, {(IsFemale ? "F" : "M")} {Weight:F}g ";
+            return $"{Name} {Species} {Age}mnt, {(IsFemale ? "F" : "M")} {Weight:F}g";
         }
-
         public static List<Pet> CreatePets()
-            {
+        {
             return new List<Pet>()
             {
-                new Pet("Name-G", "cat", 9, true, 900),
-                new Pet("Name-A", "cat", 9, true, 900),
-                new Pet("Name-B", "cat", 9, true, 900),
-                new Pet("Name-C", "cat", 9, true, 900),
+                new Pet("Gabriel", "cat", 9, true, 900),
+                new Pet("Chester", "tiger", 20, false, 23000),
+                new Pet("Josh", "dog", 9, true, 5000),
+                new Pet("Ahushi", "snake", 5, true, 10000),
+                new Pet("Mithun", "gecko", 3, false, 200),
+                new Pet("Stephen", "rabbit", 4, true, 900),
             };
-        }    
+        }
     }
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            // get a list of Pets
-            List<Pet> pets = Pet.CreatePets();
+            ////get a list of pets
+            //List<Pet> pets = Pet.CreatePets();
+            ////display the list on screen
+            //foreach (Pet pet in pets)
+            //{
+            //    Console.WriteLine(pet);
+            //}
+            ////save to file 
+            //SerializeToFile("pets.json", pets);
 
-            // display on screen
-            foreach (Pet pet in pets) { 
-                Console.WriteLine(pet.ToString());
+            //deserialze
+            List<Pet> chester = DeserializeFromFile("pets.json");
+            foreach (Pet pet in chester)
+            {
+                Console.WriteLine(pet);
             }
+        }
 
-            // print raw
+        static List<Pet> DeserializeFromFile(string file)
+        {
+            //get the contents
+            string contents = File.ReadAllText(file);
 
-            var serializer = new JavaScriptSerializer();
-            var serializedResult = serializer.Serialize(pets);
-            // Create and initialise a serializer object
-           
+            //Create and initialise a serializer object
+            JavaScriptSerializer serializer = new JavaScriptSerializer();
 
-//    (You will also need a writable stream such as a TextWriter)
-//TextWriter writer = new StreamWriter(filename);
+            //deserial it and return the list
+            return serializer.Deserialize<List<Pet>>(contents);
+        }
+        static void SerializeToFile(string file, List<Pet> pets)
+        {
+            //Create and initialise a serializer object
+            JavaScriptSerializer serializer = new JavaScriptSerializer();
 
-//    Use the Serialize method to serialize the object
-//    serializer.Serialize(writer, student);
-
-    // serial and print
-    // desserialze
+            //saves the json string to the file
+            File.WriteAllText(file, serializer.Serialize(pets));
+        }
     }
-
-        static List<Pet> SerializFromFile(string path, List<Pet> pets)
-        {
-            JavaScriptSerializer serializer = new JavaScriptSerializer();
-            return serializer.Deserialize<List<Pet>>(path);
-        }
-        static List<Pet> DeserializFromFile(string path)
-        {
-            JavaScriptSerializer serializer = new JavaScriptSerializer();
-            File.WritAllText(path, s)
-            return "";
-        }
-}
 }

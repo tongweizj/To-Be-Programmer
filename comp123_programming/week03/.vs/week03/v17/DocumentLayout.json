@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\",
+  "WorkspaceRootPath": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_Time\\Time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab_Time\\Time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF3BAE5C-708F-43CE-9DD9-3C3CDFFFA9EC}|Astronaut\\Astronaut.csproj|c:\\workspace\\centennial_codenotes\\comp123_programming\\week03\\astronaut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3BAE5C-708F-43CE-9DD9-3C3CDFFFA9EC}|Astronaut\\Astronaut.csproj|solutionrelative:astronaut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab_song\\Song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06B22003-8E95-4BD6-8FDC-2B4B9AEE98F0}|demo_date\\demo_date.csproj|c:\\workspace\\centennial_codenotes\\comp123_programming\\week03\\demo_date\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B22003-8E95-4BD6-8FDC-2B4B9AEE98F0}|demo_date\\demo_date.csproj|solutionrelative:demo_date\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\enum_flag\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enum_flag\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06B22003-8E95-4BD6-8FDC-2B4B9AEE98F0}|demo_date\\demo_date.csproj|c:\\workspace\\centennial_codenotes\\comp123_programming\\week03\\demo_date\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B22003-8E95-4BD6-8FDC-2B4B9AEE98F0}|demo_date\\demo_date.csproj|solutionrelative:demo_date\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab_song\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|solutionrelative:lab_song\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_Time\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab_Time\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DCDB67-B2CF-4C36-940A-9C8905054FA6}|lab_Time\\lab_Time.csproj|c:\\workspace\\centennial_codenotes\\comp123_programming\\week03\\lab_time\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DCDB67-B2CF-4C36-940A-9C8905054FA6}|lab_Time\\lab_Time.csproj|solutionrelative:lab_time\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab_song\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|solutionrelative:lab_song\\Song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950CFB4B-7730-4F86-8F53-3451126A96D9}|enum_flag\\enum_flag.csproj|C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\enum_flag\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950CFB4B-7730-4F86-8F53-3451126A96D9}|enum_flag\\enum_flag.csproj|solutionrelative:enum_flag\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437D62C0-28B0-4B3D-865A-EE0B77BF96CF}|lab_song\\lab_song.csproj|solutionrelative:lab_song\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,16 +41,16 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 867,
+          "DockedWidth": 1004,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Song.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Song.cs",
               "RelativeDocumentMoniker": "lab_song\\Song.cs",
-              "ToolTip": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Song.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Song.cs",
               "RelativeToolTip": "lab_song\\Song.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,10 +60,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\Astronaut\\Program.cs",
+              "RelativeDocumentMoniker": "Astronaut\\Program.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\Astronaut\\Program.cs",
+              "RelativeToolTip": "Astronaut\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:52:17.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\demo_date\\Program.cs",
+              "RelativeDocumentMoniker": "demo_date\\Program.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\demo_date\\Program.cs",
+              "RelativeToolTip": "demo_date\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:50:59.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\demo_date\\Date.cs",
+              "RelativeDocumentMoniker": "demo_date\\Date.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\demo_date\\Date.cs",
+              "RelativeToolTip": "demo_date\\Date.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:50:17.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Time.cs",
-              "DocumentMoniker": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_Time\\Time.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_Time\\Time.cs",
               "RelativeDocumentMoniker": "lab_Time\\Time.cs",
-              "ToolTip": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_Time\\Time.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_Time\\Time.cs",
               "RelativeToolTip": "lab_Time\\Time.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\enum_flag\\Program.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\enum_flag\\Program.cs",
               "RelativeDocumentMoniker": "enum_flag\\Program.cs",
-              "ToolTip": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\enum_flag\\Program.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\enum_flag\\Program.cs",
               "RelativeToolTip": "enum_flag\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Library.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Library.cs",
               "RelativeDocumentMoniker": "lab_song\\Library.cs",
-              "ToolTip": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Library.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Library.cs",
               "RelativeToolTip": "lab_song\\Library.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,28 +136,16 @@
           ]
         },
         {
-          "DockedWidth": 367,
+          "DockedWidth": 230,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_Time\\Program.cs",
-              "RelativeDocumentMoniker": "lab_Time\\Program.cs",
-              "ToolTip": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_Time\\Program.cs",
-              "RelativeToolTip": "lab_Time\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:17:42.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Program.cs",
+              "DocumentMoniker": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Program.cs",
               "RelativeDocumentMoniker": "lab_song\\Program.cs",
-              "ToolTip": "C:\\Users\\wtong\\workspace\\code_college\\comp123_programming\\week03\\lab_song\\Program.cs",
+              "ToolTip": "C:\\workspace\\Centennial_CodeNotes\\comp123_programming\\week03\\lab_song\\Program.cs",
               "RelativeToolTip": "lab_song\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

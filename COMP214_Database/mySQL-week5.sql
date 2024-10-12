@@ -264,3 +264,127 @@ BEGIN
   
   dbms_output.put_line(' v_num < 10 ');
 END;
+
+
+
+/*
+Syntax for SIMPLE Case:
+CASE search_expression
+    WHEN concn1 Then result1;
+    
+*/
+
+
+/*
+
+WHEN condl THEN resultl
+WHEN cond2 THEN result2
+WHEN CondoN THEN rESUlEN
+ELSE else_resule
+wIthout using JOINS, write a PL/SQL block
+CO
+display the ProductID, product_name and extract the Category name as well-- for all records in the PRODUCTS table.
+pbox
+aled unfoL
+ENG US
+
+*/
+
+SET SERVEROUTPUT ON;
+
+SELECT product_id, product_name,
+(
+CASE category_id
+  WHEN 1 THEN 'CPU' 
+  WHEN 2 THEN 'Videocard'
+  WHEN 3 THEN 'RAM'
+  WHEN 4 THEN 'MotherBoard'
+  ELSE  '--i-Check again----'
+END
+) As extr_category_name
+from products;
+
+
+/*
+serach case
+CASE 
+   WHEN selector = 'value1' THEN S1; 
+   WHEN selector = 'value2' THEN S2; 
+   WHEN selector = 'value3' THEN S3; 
+   ... 
+   ELSE Sn;  -- default case 
+END CASE; 
+*/
+
+
+select first_name, last_name,
+(
+case 
+   when first_name = 'Willow' and last_name = 'Reyes' then 'Toronto'
+   when first_name = 'Ivy' and last_name = 'Burns' then 'Vanc'
+   when first_name = 'Erin' and last_name = 'Gordon' then 'Calgary'
+END
+) as work_city
+from employees;
+
+
+/*
+   when job_title like '%Marketing%' then 'tax-slab-2'
+   when job_title like '%Marketing%' then 'tax-slab-3'
+   when job_title like '%Programmer%' OR job_title like '%Public Accountant%' or job_title like '%Public RElations Represenative%' then 'tax-slab-7'
+
+*/
+
+select first_name, last_name,job_title,
+(
+case 
+   when job_title like '%Clerk%'  then 'tax-slab-1'
+   when job_title like '%Marketing%' then 'tax-slab-2'
+   when job_title like '%Marketing%' then 'tax-slab-3'
+   when job_title like '%Programmer%' OR job_title like '%Public Accountant%' or job_title like '%Public RElations Represenative%' then 'tax-slab-7'
+END
+) as tax_slab
+from employees;
+
+
+select first_name, last_name
+from employees
+where job_title like '%Clerk%';
+
+
+/*  when others then DBMS_output.put_line('ERROR!');*/
+
+DECLARE
+  vnum_1 NUMBER :=20;   
+  vnum_2 NUMBER :=0;
+  v_div NUMBER;
+  
+BEGIN
+  v_div := vnum_1 / vnum_2;
+  DBMS_output.put_line('division:  ' || v_div ); 
+exception
+
+  when ZERO_DIVIDE THEN
+         DBMS_output.put_line('Denominator shold not be zero!');
+END;
+
+
+  select product_name, list_price
+  from products
+  where product_id = 300;
+  
+  
+--
+
+Declare
+  v_id number : =300;
+  v_name products.product_name%TYPE;
+  v_price number(9,2);
+Begin
+  select product_name, List_price into v_name,v_price
+  from products
+  where product_id = v_id;
+exception
+when NO_DATA_FOUND then
+       DBMS_output.put_line('NO_DATA_FOUND!');
+end;  

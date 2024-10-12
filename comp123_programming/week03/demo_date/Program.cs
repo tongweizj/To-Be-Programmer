@@ -10,7 +10,9 @@ namespace demo_date
     {
         static void Main(string[] args)
         {
+
             Test();
+
         }
 
         static void Test()
@@ -21,6 +23,8 @@ namespace demo_date
             Date d3 = d1 + d2;
             Console.WriteLine($"{d1}");
             Console.WriteLine($"{d1} {d2} {d3}");
+            Console.WriteLine($"{d1} + {d2} = {d1 + d2}");
+            Console.WriteLine($"{d2} - {d1} = {d2 - d1}");
         }
         static void Test1()
         {

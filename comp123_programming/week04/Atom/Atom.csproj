@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4719050E-104C-43AE-BA2B-B8DE07BAC2FF}</ProjectGuid>
+    <ProjectGuid>{804C4984-2F05-40CE-ABA3-6EA7385CD1CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SerializationDemo</RootNamespace>
-    <AssemblyName>SerializationDemo</AssemblyName>
+    <RootNamespace>Atom</RootNamespace>
+    <AssemblyName>Atom</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Atom.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

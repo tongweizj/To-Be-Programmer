@@ -18,11 +18,12 @@ public class SavingsAccount extends Account{
     void withdraw(double amount) {
         double tempBalance = this.balance - amount;
         if(tempBalance < 0.00){
-            System.out.println("Alarm: your donot have enough balance!");
+            System.out.println("Alarm: your donot have enough balance! Your balance = " + this.balance);
         } else if (tempBalance < 3000.00) {
-            System.out.println("Alarm: your balance is less than $3000!");
+            this.balance = this.balance - amount;
+            System.out.println("Alarm: your balance is less than $3000! Your balance = " + this.balance);
         }else {
-            this.balance -= amount;
+            this.balance = this.balance - amount;
             System.out.println("Your balance = " + this.balance);
         }
     }
@@ -40,6 +41,10 @@ public class SavingsAccount extends Account{
 
     @Override
     public String toString() {
-        return "SavingsAccount: " + "balance = " + balance + super.toString();
+        return "SavingsAccount { " +
+                "balance = " + balance +
+                " " + super.toString() +
+                " } "
+        ;
     }
 }

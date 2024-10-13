@@ -18,10 +18,10 @@ public abstract class Account extends Consumer{
 
     @Override
     public String toString() {
-        return "Account{" +
-                "id = " + getId() +
-                " name = " + getName() +
-                " accountNum =" + accountNum +
+        return "Account = {" +
+                "id = " + getId()  + '\''+
+                " name = " + getName()  + '\''+
+                " accountNum =" + accountNum  + '\''+
                 '}';
     }
 }

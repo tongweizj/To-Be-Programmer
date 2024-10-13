@@ -21,7 +21,7 @@ public class ChequingAccount extends Account{
     @Override
     void withdraw(double amount) {
         if(amount > this.balance + 2000){
-            System.out.println("Alarm: your donot have enough balance!");
+            System.out.println("Alarm: your do not have enough balance!");
         } else {
             this.balance -= amount;
             System.out.println("Your balance = " + this.balance);
@@ -40,8 +40,10 @@ public class ChequingAccount extends Account{
 
     @Override
     public String toString() {
-        return "ChequingAccount{ " +
+        return "Chequing Account { " +
                 "balance = " + balance +
-                " } " + super.toString();
+                " " + super.toString() +
+                " } "
+        ;
     }
 }

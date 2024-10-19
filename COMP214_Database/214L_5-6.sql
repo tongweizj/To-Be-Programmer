@@ -65,6 +65,8 @@ into 将 sql 语句获得的值, 赋值给两个变量
   where FIRST_NAME =  'Willow';
   dbms_output.put_line('Willow Reyes has an emp_id of' || v_empid || ' and is a' || v_title);
 END;
+
+
 /******************************************
 
 -- (III) ANCHORED DATATYPES:

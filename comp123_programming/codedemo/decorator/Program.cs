@@ -24,17 +24,20 @@ namespace decorator
             //Foo of Parent
             //virtual Bar of Parent
 
-            //Child2 p3 = new Child2();
-            //p3.Bar();
-            //p3.Foo();
-            //((Parent)p3).Foo();
-
-            Parent p4 = new Child3();
-            p4.Foo();
-            p4.Bar();
-            // Foo of Parent
+            Child2 p3 = new Child2();
+            p3.Bar();
+            p3.Foo();
+            ((Parent)p3).Foo();
             // virtual Bar of Parent
-        }
+            //Foo of Child2
+            //Foo of Parent
+
+        //Parent p4 = new Child3();
+        //p4.Foo();
+        //p4.Bar();
+        // Foo of Parent
+        // virtual Bar of Parent
+    }
     }
 
 

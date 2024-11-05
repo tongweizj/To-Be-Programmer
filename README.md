@@ -1,5 +1,8 @@
 # MyCollege
 These are my college homework code
+
+编程学习过程中，积累的代码
+
 ## 文件夹规则
 
 1. 每个课程一个大文件夹

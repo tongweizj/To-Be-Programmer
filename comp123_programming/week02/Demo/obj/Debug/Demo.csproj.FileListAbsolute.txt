@@ -1,7 +1,0 @@
-H:\Visual Studio 2022\week02\Demo\bin\Debug\Demo.exe.config
-H:\Visual Studio 2022\week02\Demo\bin\Debug\Demo.exe
-H:\Visual Studio 2022\week02\Demo\bin\Debug\Demo.pdb
-H:\Visual Studio 2022\week02\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
-H:\Visual Studio 2022\week02\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
-H:\Visual Studio 2022\week02\Demo\obj\Debug\Demo.exe
-H:\Visual Studio 2022\week02\Demo\obj\Debug\Demo.pdb

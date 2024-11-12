@@ -1,7 +1,0 @@
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\enum_flag\bin\Debug\enum_flag.exe.config
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\enum_flag\bin\Debug\enum_flag.exe
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\enum_flag\bin\Debug\enum_flag.pdb
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\enum_flag\obj\Debug\enum_flag.csproj.AssemblyReference.cache
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\enum_flag\obj\Debug\enum_flag.csproj.CoreCompileInputs.cache
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\enum_flag\obj\Debug\enum_flag.exe
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\enum_flag\obj\Debug\enum_flag.pdb

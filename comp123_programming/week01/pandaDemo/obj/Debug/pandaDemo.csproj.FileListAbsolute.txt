@@ -1,7 +1,0 @@
-C:\Users\301034450\Desktop\week-1-panda\pandaDemo\bin\Debug\pandaDemo.exe.config
-C:\Users\301034450\Desktop\week-1-panda\pandaDemo\bin\Debug\pandaDemo.exe
-C:\Users\301034450\Desktop\week-1-panda\pandaDemo\bin\Debug\pandaDemo.pdb
-C:\Users\301034450\Desktop\week-1-panda\pandaDemo\obj\Debug\pandaDemo.csproj.AssemblyReference.cache
-C:\Users\301034450\Desktop\week-1-panda\pandaDemo\obj\Debug\pandaDemo.csproj.CoreCompileInputs.cache
-C:\Users\301034450\Desktop\week-1-panda\pandaDemo\obj\Debug\pandaDemo.exe
-C:\Users\301034450\Desktop\week-1-panda\pandaDemo\obj\Debug\pandaDemo.pdb

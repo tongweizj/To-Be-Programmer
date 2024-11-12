@@ -1,7 +1,0 @@
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_song\bin\Debug\lab_song.exe.config
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_song\bin\Debug\lab_song.exe
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_song\bin\Debug\lab_song.pdb
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_song\obj\Debug\lab_song.csproj.AssemblyReference.cache
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_song\obj\Debug\lab_song.csproj.CoreCompileInputs.cache
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_song\obj\Debug\lab_song.exe
-C:\Users\wtong\workspace\code_college\comp123_programming\week03\lab_song\obj\Debug\lab_song.pdb

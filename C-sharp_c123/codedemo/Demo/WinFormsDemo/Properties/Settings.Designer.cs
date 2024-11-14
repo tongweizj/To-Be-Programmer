@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace week09.Properties
+namespace WinFormsDemo.Properties
 {
 
 

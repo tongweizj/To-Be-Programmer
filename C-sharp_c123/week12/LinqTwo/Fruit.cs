@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Linq
+namespace LinqTwo
 {
     internal class Fruit
     {
-
         public string Name { get; set; }
         public string Origin { get; set; }
         public double Price { get; set; }

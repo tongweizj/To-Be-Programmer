@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Linq
+namespace LinqTwo
 {
     internal class Person
     {
-
         public string Name { get; set; }
         public double Asset { get; set; }
         public bool IsFemale { get; set; }

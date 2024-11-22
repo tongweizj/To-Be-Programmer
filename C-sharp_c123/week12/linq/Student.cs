@@ -1,7 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Linq
 {
-    public class Student
+    internal class Student
     {
         public string First { get; set; }
         public string Last { get; set; }
@@ -32,8 +37,4 @@ namespace Linq
     new Student { First = "Melanie", Last = "March", Id = 126, Scores = new List<int> { 89, 79, 80, 95, 97 } }
   };
     }
-
-    
-
 }
-

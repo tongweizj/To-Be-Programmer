@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Linq
+namespace LinqTwo
 {
     internal class Pet
     {
+
         public string Name { get; set; }
         public PetOwner Owner { get; set; }
     }

@@ -232,6 +232,23 @@ var sortedGroups = result7.OrderBy(group => group.Key);");
             Console.WriteLine(longestWord);
 
             //7.The first word with the most vowels. (Again see the Aggregate example above)
+            char[] vowels = {'a', 'e', 'i', 'o', 'u'};
+            string wordWithMostVowels = digits
+                .OrderByDescending(word => word.Count(c => vowels.Contains(c)))
+                .ThenBy(word => Array.IndexOf(digits, word)) 
+                .First();
+
+            // Count the vowels in that word
+            int vowelCount = wordWithMostVowels.Count(c => vowels.Contains(c));
+
+            // Output the result
+           
+            Console.WriteLine("\nQ7:\n");
+            Console.WriteLine(@"string wordWithMostVowels = digits
+                .OrderByDescending(word => word.Count(c => vowels.Contains(c)))
+                .ThenBy(word => Array.IndexOf(digits, word)) 
+                .First();");
+            Console.WriteLine($"The first word with the most vowels is: \"{wordWithMostVowels}\" with {vowelCount} vowels.");
 
             //8.All the elements in second and third with no duplicates. Do not use the Distinct() method. (See the Set example above)
 

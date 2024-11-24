@@ -30,9 +30,9 @@ public class DatabaseHelper {
 
             String driverType = "jdbc:oracle:thin";
             //use this host name when connecting from campus CcwSecure wifi
-            String host = "@oracle1.centennialcollege.ca";
+//            String host = "@oracle1.centennialcollege.ca";
             //use this host when connecting from anywhere else
-            //String host = "199.212.26.208";
+            String host = "@199.212.26.208";
             int port = 1521;
             String sid = "SQLD";
 
@@ -40,8 +40,8 @@ public class DatabaseHelper {
             String hostString = driverType + ":" + host + ":" + port + ":" + sid;
             System.out.println("hostString : " + hostString);
 
-//            String username = "Your_Username";
-//            String password = "Your_password";
+            String username = "COMP228_F24_jig_58";
+            String password = "tw273634";
 
             //register the driver
             Class.forName("oracle.jdbc.OracleDriver");

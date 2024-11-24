@@ -39,6 +39,7 @@ public class Book {
         this.total.set(quantity * price.get());
     }
 
+
     //used for retrieving book
     public Book(String title, String author, String category, String coverType, int quantity, double price, double total) {
         this.title.set(title);

@@ -93,7 +93,7 @@
         </font>
     </Label>
 
-    <TableView fx:id="bookTableView" prefHeight="200.0" prefWidth="792.0" GridPane.columnIndex="1" GridPane.columnSpan="2147483647" GridPane.rowIndex="11">
+    <TableView fx:id="bookTableView" prefHeight="200.0" prefWidth="792.0" GridPane.columnIndex="1" GridPane.columnSpan="2147483647" GridPane.rowIndex="12">
       <columns>
          <TableColumn fx:id="colTitle" prefWidth="75.0" text="Title" />
           <TableColumn fx:id="colAuthor" prefWidth="75.0" text="Author" />
@@ -105,7 +105,7 @@
       </columns>
     </TableView>
 
-    <Button maxWidth="1.7976931348623157E308" onAction="#onQuitClick" text="Close Book Store" GridPane.columnIndex="1" GridPane.columnSpan="2147483647" GridPane.rowIndex="12">
+    <Button maxWidth="1.7976931348623157E308" onAction="#onQuitClick" text="Close Book Store" GridPane.columnIndex="1" GridPane.columnSpan="2147483647" GridPane.rowIndex="13">
         <font>
             <Font size="24.0" />
         </font>

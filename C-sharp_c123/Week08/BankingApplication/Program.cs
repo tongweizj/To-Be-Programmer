@@ -31,13 +31,18 @@ namespace BankingApplication
             p7 = Bank.GetPerson("Hao");
             p8 = Bank.GetPerson("Jake");
 
-            p0.Login("123"); p1.Login("234");
-            p2.Login("345"); p3.Login("456");
-            p4.Login("567"); p5.Login("678");
-            p6.Login("789"); p7.Login("890");
+            p0.Login("123"); 
+            p1.Login("234");
+            p2.Login("345"); 
+            p3.Login("456");
+            p4.Login("567"); 
+            p5.Login("678");
+            p6.Login("789"); 
+            p7.Login("890");
 
             //a visa account
             VisaAccount a = (VisaAccount)Bank.GetAccount("VS-100000");
+
             a.DoPayment(1500, p0);
             a.DoPurchase(200, p1);
             a.DoPurchase(25, p2);
@@ -53,7 +58,7 @@ namespace BankingApplication
             a.DoPayment(400, p0);
             Console.WriteLine(a);
 
-            //a saving account
+            ////a saving account
             SavingAccount b = (SavingAccount)Bank.GetAccount("SV-100002");
             b.Withdraw(300, p0);
             b.Withdraw(32.90, p6);
@@ -68,7 +73,7 @@ namespace BankingApplication
             b.Withdraw(111.11, p5);
             Console.WriteLine(b);
 
-            //a checking account
+            ////a checking account
             CheckingAccount c = (CheckingAccount)Bank.GetAccount("CK-100005");
             c.Deposit(33.33, p7);
             c.Deposit(40.44, p7);
@@ -113,6 +118,7 @@ namespace BankingApplication
                 a.DoPurchase(5825, p2); //credit limit exceeded
             }
             catch (AccountException e) { Console.WriteLine(e.Message); }
+
             try
             {
                 c.Withdraw(1500, p5); //no overdraft
@@ -130,9 +136,9 @@ namespace BankingApplication
                 Bank.GetPerson("Trudeau"); //user does not exist
             }
             catch (AccountException e) { Console.WriteLine(e.Message); }
+
             Console.WriteLine("\nBefore PrepareMonthlyReport()");
             Console.WriteLine(c);
-
             Console.WriteLine("\nAfter PrepareMonthlyReport()");
             c.PrepareMonthlyReport();   //all transactions are cleared, balance changes
             Console.WriteLine(c);

@@ -25,19 +25,30 @@ namespace BankingApplication
         }
         public void Withdraw(double amount, Person person)
         {
-           if (!base.IsHolder(person.Name))
+            try
             {
-                throw new AccountException("NAME_NOT_ASSOCIATED_WITH_ACCOUN.") ;
+                if (!base.IsHolder(person.Name))
+                {
+                    throw new AccountException("NAME_NOT_ASSOCIATED_WITH_ACCOUN.");
+                }
+                if (!person.IsAuthenticated)
+                {
+                    throw new AccountException("USER_NOT_LOGGED_IN");
+                }
+                if (amount > base.Balance)
+                {
+                    throw new AccountException("NO_OVERDRAFT");
+                }
+                base.Deposit(amount * (-1), person);
             }
-            if (!person.IsAuthenticated)
+            catch (AccountException ex)
             {
-                throw new AccountException("USER_NOT_LOGGED_IN");
+                Console.WriteLine("AccountException：" + ex.Message);
             }
-            if (amount>base.Balance&& !hasOverdraft)
+            catch (Exception ex)
             {
-                throw new AccountException("NO_OVERDRAFT");
+                Console.WriteLine("SystemException：" + ex.Message);
             }
-            base.Deposit(amount,person);
         }
         public override void PrepareMonthlyReport()
         {
@@ -46,7 +57,8 @@ namespace BankingApplication
             foreach (Transaction item in base.Transactions) {
                 serviceCharge += COST_PER_TRANSACTION;
             }
-            interest += base.Balance * INTEREST_RATE / 12;
+            interest += (base.Balance * INTEREST_RATE) / 12;
+            Console.WriteLine($"{serviceCharge} - {interest}");
             base.Balance = base.Balance + interest - serviceCharge;
 
             base.Transactions.Clear();

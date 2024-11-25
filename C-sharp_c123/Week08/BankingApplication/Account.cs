@@ -12,7 +12,7 @@ namespace BankingApplication
         public readonly List<Person> Holders = new List<Person>();
         public readonly List<Transaction> Transactions = new List<Transaction>();
         public readonly String Number;
-        private static int LAST_NUMBER;
+        private static int LAST_NUMBER=100000;
 
         public Double Balance { get; protected set; }
         public Double LowestBalance { get; protected set; }
@@ -49,7 +49,7 @@ namespace BankingApplication
 
         public override String ToString()
         {
-            return $"AccountNumber: {Number}, \n{String.Join(", ",this.Holders)}, Balance: {this.Balance}, Transactions: {String.Join(" ", this.Transactions)}";
+            return $"AccountNumber: {Number}, \nHolders: {String.Join(", ",this.Holders)}, \nBalance: {this.Balance}, \nTransactions:\n {String.Join(" ", this.Transactions)}\n";
         }
     }
 

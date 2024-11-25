@@ -25,15 +25,15 @@ namespace BankingApplication
         {
             persons = new List<Person>()
             {
-                new Person("Narendra", "1234-5678"),
-                new Person("Ilia", "2345-6789"),
-                new Person("Tom", "3456-7890"),
+                new Person("Narendra", "1234-5678"), //p0
+                new Person("Ilia", "2345-6789"), //p1
+                new Person("Tom", "3456-7890"), //p2
                 new Person("Syed", "4567-8901"),
-                new Person("Arben", "5678-9012"),
+                new Person("Arben", "5678-9012"), //p4
                 new Person("Patrick", "6789-0123"),
-                new Person("Yin", "7890-1234"),
+                new Person("Yin", "7890-1234"), //p6
                 new Person("Hao", "8901-2345"),
-                new Person("Jake", "9012-3456")
+                new Person("Jake", "9012-3456") //p8
             };
         }
        static void CreateAccounts()
@@ -76,7 +76,7 @@ namespace BankingApplication
         }
 
         public static void PrintAccounts() {
-            Console.WriteLine(String.Join(", ", accounts));
+            Console.WriteLine(String.Join("\n", accounts));
         }
 
 
@@ -89,7 +89,7 @@ namespace BankingApplication
             File.WriteAllText(filename, serializer.Serialize(accounts));
         }
         public static void PrintPersons() { 
-           Console.WriteLine(String.Join(", ", persons));
+           Console.WriteLine(String.Join("\n", persons));
         }
 
         public static Person GetPerson(string name) {

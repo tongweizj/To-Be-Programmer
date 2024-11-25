@@ -28,11 +28,15 @@ namespace BankingApplication
             {
                 throw new AccountException("USER_NOT_LOGGED_IN");
             }
-            if (amount > CredilLimit)
+            if ((base.Balance - amount) < CredilLimit)
             {
                 throw new AccountException("CREDIT_LIMIT_HAS_BEEN_EXCEEDED");
             }
-            base.Deposit(amount*(-1), person);
+
+          
+            base.Deposit(amount * (-1), person);
+         
+                
            
         }
         public override void PrepareMonthlyReport()
@@ -40,6 +44,9 @@ namespace BankingApplication
             base.Balance -= base.LowestBalance * INTEREST_RATE / 12;
 
             base.Transactions.Clear();
+        }
+        public double GetCredilLimit() {
+            return this.CredilLimit;
         }
     }
 }

@@ -1,10 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Linq
 {
-
-
-    class Fruit
+    internal class Fruit
     {
+
         public string Name { get; set; }
         public string Origin { get; set; }
         public double Price { get; set; }
@@ -25,6 +29,4 @@ namespace Linq
   new Fruit(){ Name="Avocado", Origin="Mexico", Price=0.45 }
   };
     }
-
 }
-

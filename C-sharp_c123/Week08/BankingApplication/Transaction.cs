@@ -27,7 +27,7 @@ namespace BankingApplication
         public override string ToString()
         {
             //  returns a string representing the account number, name of the person, the amount and the time that this transition was completed. [
-            return $"AccountNumber: {AccountNumber}, name: {Originator.Name}, amount: {Amount}, time: {Time.ToShortTimeString()}, Deposit: {EndBalancd}";
+            return $"AccountNumber: {AccountNumber}, name: {Originator.Name}, amount: {Amount}, time: {Time.ToShortTimeString()}, Deposit: {EndBalancd}\n";
         }
     }
 }

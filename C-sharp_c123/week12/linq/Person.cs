@@ -1,8 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Linq
 {
-    public class Person
+    internal class Person
     {
+
         public string Name { get; set; }
         public double Asset { get; set; }
         public bool IsFemale { get; set; }
@@ -55,5 +61,3 @@ namespace Linq
   };
     }
 }
-
-

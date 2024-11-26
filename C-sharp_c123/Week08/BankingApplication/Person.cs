@@ -31,11 +31,11 @@ namespace BankingApplication
 
             if (Password.Equals(password))
             {
-                throw new AccountException();
+                IsAuthenticated = true;
             }
             else
             {
-                IsAuthenticated = true;
+                throw new AccountException("Incorrect Password");
             }
         }
         public void Logout()

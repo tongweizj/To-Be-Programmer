@@ -28,7 +28,11 @@
     <!-- 左栏 -->
     <VBox spacing="10" style="-fx-background-color: #f4f4f4;" prefWidth="300">
       <HBox spacing="5">
-        <Label text="Student Data" />
+        <Label text="Student Data" >
+        <font>
+          <Font size="16.0" />
+        </font>
+        </Label>
       </HBox>
       <HBox spacing="5">
         <Label text="Student ID" />
@@ -55,11 +59,11 @@
       <HBox spacing="5">
       <Button fx:id="btnSaveData" text="Save Data" onAction="#btnSaveDataClick">
         <font>
-          <Font size="24.0" />
+          <Font size="16.0" />
         </font>
       </Button>
         <Pane HBox.hgrow="ALWAYS" />
-      <Button fx:id="clearButton" text="清空" />
+
       </HBox>
       <Label fx:id="lblOutput"  text="GPA for term 3" />
     </VBox>

@@ -37,7 +37,7 @@ public class HelloController  implements Initializable {
         this.colTermTwo.setCellValueFactory(new PropertyValueFactory<GPA, Double>("termTwo"));
         this.colTermThree.setCellValueFactory(new PropertyValueFactory<GPA, Double>("termThree"));
         this.colCGPA.setCellValueFactory(new PropertyValueFactory<GPA, Double>("termCGPA"));
-
+        this.lblOutput.setText("");
         //associate database helper gpalist to tableview
         this.gpaTableView.setItems(this.dbHelper.gpaList);
         //refresh the table view to show updated list of books
@@ -47,7 +47,7 @@ public class HelloController  implements Initializable {
     public void btnSaveDataClick() {
         lblOutput.setText("GPA Information");
 
-        String output = "GPA Information";
+        String output = "";
         String SID = "";
         Double TermOne = 0.0;
         Double TermTwo = 0.0;
@@ -57,7 +57,7 @@ public class HelloController  implements Initializable {
 
         //get the input from the TextField using getText()
         if (this.tfStudentID.getText().isEmpty()){
-            output += "\nStudent ID : Student ID cannot be empty";
+            output += "GPA Information\nStudent ID : Student ID cannot be empty";
         }else{
             SID = this.tfStudentID.getText();
         }

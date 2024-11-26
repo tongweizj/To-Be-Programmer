@@ -18,12 +18,6 @@ public class HelloController {
      * */
 
     @FXML
-    private Label lblQuantity;
-    @FXML
-    private TextField tfBookTitle;
-    @FXML
-    private TextField tfBookAuthor;
-    @FXML
     private Label lblReceipt;
     @FXML
     private Label lblItemsNumber;
@@ -59,7 +53,7 @@ public class HelloController {
         this.cbmGroceryItem.setItems(FXCollections.observableArrayList(product_list));
         this.cbmGroceryItem.getSelectionModel().selectFirst();
 
-        String[] input_number = {"1", "2", "3", "4", "5", "6", "7", "8", "9"};
+        String[] input_number = {"0","1", "2", "3", "4", "5", "6", "7", "8", "9"};
         this.cbmGroceryQuantity.setItems(FXCollections.observableArrayList(input_number));
         this.cbmGroceryQuantity.getSelectionModel().selectFirst();
 
@@ -81,8 +75,14 @@ public class HelloController {
     }
 
     public void onSaveItemButtonClick(ActionEvent actionEvent) {
-        shopCartProducts.put(this.cbmGroceryItem.getValue().toString(), Integer.parseInt(this.cbmGroceryQuantity.getValue().toString()));
+        if(this.cbmGroceryQuantity.getValue().toString()=="0"){
+            shopCartProducts.remove(this.cbmGroceryItem.getValue().toString());
+        }else {
+
+            shopCartProducts.put(this.cbmGroceryItem.getValue().toString(), Integer.parseInt(this.cbmGroceryQuantity.getValue().toString()));
 //        lblOutput.setText(Product.getProductReceipt(shopCartProducts));
+
+        }
         lblItemsNumber.setText(shopCartProducts.size() + " items");
 
     }

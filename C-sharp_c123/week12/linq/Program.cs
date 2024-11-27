@@ -253,6 +253,54 @@ var sortedGroups = result7.OrderBy(group => group.Key);");
             //8.All the elements in second and third with no duplicates. Do not use the Distinct() method. (See the Set example above)
 
             //9.Inner, left and right join on persons and fruits. (You may use a mixed-query)
+            // left Join
+            var leftJoin = from person in Person.persons
+                           join fruit in Fruit.fruits
+                           on person.Country equals fruit.Origin into fruitGroup
+                           from fg in fruitGroup.DefaultIfEmpty()
+                           select new
+                           {
+                               PersonName = person.Name,
+                               FruitName = fg?.Name ?? "No Fruit",
+                               FruitOrigin = fg?.Origin ?? "No Origin"
+                           };
+
+            Console.WriteLine("\nLeft Join Results:");
+            foreach (var item in leftJoin)
+            {
+                Console.WriteLine($"Person: {item.PersonName}, Fruit: {item.FruitName}, Origin: {item.FruitOrigin}");
+            }
+
+            // 2. inner Join
+            var innerJoin = from person in Person.persons
+                            join fruit in Fruit.fruits
+                            on person.Country equals fruit.Origin
+                            select new { PersonName = person.Name, FruitName = fruit.Name, FruitOrigin = fruit.Origin };
+
+            Console.WriteLine("Inner Join Results:");
+            foreach (var item in innerJoin)
+            {
+                Console.WriteLine($"Person: {item.PersonName}, Fruit: {item.FruitName}, Origin: {item.FruitOrigin}");
+            }
+
+            // 3. Right Join
+            var rightJoin = from fruit in Fruit.fruits
+                            join person in Person.persons
+                            on fruit.Origin equals person.Country into personGroup
+                            from pg in personGroup.DefaultIfEmpty()
+                            select new
+                            {
+                                PersonName = pg?.Name ?? "No Person",
+                                FruitName = fruit.Name,
+                                FruitOrigin = fruit.Origin
+                            };
+
+            Console.WriteLine("\nRight Join Results:");
+            foreach (var item in rightJoin)
+            {
+                Console.WriteLine($"Person: {item.PersonName}, Fruit: {item.FruitName}, Origin: {item.FruitOrigin}");
+            }
+
 
         }
     }

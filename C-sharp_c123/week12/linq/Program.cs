@@ -251,7 +251,23 @@ var sortedGroups = result7.OrderBy(group => group.Key);");
             Console.WriteLine($"The first word with the most vowels is: \"{wordWithMostVowels}\" with {vowelCount} vowels.");
 
             //8.All the elements in second and third with no duplicates. Do not use the Distinct() method. (See the Set example above)
+            List<string> items = new List<string>
+            {
+                "apple", "banana", "apple", "orange", "banana", "grape", "kiwi"
+             };
 
+            // Filter the list to keep only unique items (no duplicates)
+            var uniqueItems = items
+                .GroupBy(item => item)               // Group by the item value
+                .Where(group => group.Count() == 1)  // Keep groups with exactly one occurrence
+                .Select(group => group.Key)          // Select the item (key of the group)
+                .ToList();
+
+            Console.WriteLine("Unique Items:");
+            foreach (var item in uniqueItems)
+            {
+                Console.WriteLine(item);
+            }
             //9.Inner, left and right join on persons and fruits. (You may use a mixed-query)
             // left Join
             var leftJoin = from person in Person.persons

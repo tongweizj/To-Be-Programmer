@@ -11,7 +11,17 @@ namespace Linq
     {
         static void Main(string[] args)
         {
-            TestTwo();
+            //TestTwo();
+            //5.Group the collection by gender
+            var result4 = Person.persons.GroupBy(p => p.IsFemale);
+            Console.WriteLine("\nQ5:\n");
+            Console.WriteLine(@"var result4 = Person.persons.GroupBy(p => p.IsFemale);");
+            foreach (var grp in result4)
+            {
+                Console.WriteLine($"{grp.Count()} persons of gender {grp.Key}");
+                foreach (var p in grp)
+                    Console.WriteLine($"\nName: {p.Name}， IsFemale: {p.IsFemale} ");
+            }
         }
         static void TestOne() {
 

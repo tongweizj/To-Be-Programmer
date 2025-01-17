@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/functions"
+        android:id="@+id/btnFunctions"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/loops"
+        android:id="@+id/btnLoops"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/when_demo"
+        android:id="@+id/btnWhen"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/lampda_demo"
+        android:id="@+id/btnLampda"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/it_parameter_demo"
+        android:id="@+id/btnIt"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/using_kotlin_classes"
+        android:id="@+id/btnClasses"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/using_kotlin_data_classes"
+        android:id="@+id/btnDataClasses"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        />
+
+
+</LinearLayout>

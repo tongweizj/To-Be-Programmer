@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d502011b-63bb-4aa1-964d-265bb897fb5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../week9_BookStore/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/src/main/java/com/example/bookstore/CoverType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/src/main/java/com/example/bookstore/CoverType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/src/main/java/com/example/bookstore/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/src/main/java/com/example/bookstore/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/src/main/java/com/example/bookstore/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/src/main/java/com/example/bookstore/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/src/main/java/com/example/bookstore/Initializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/src/main/java/com/example/bookstore/Initializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookStore/src/main/resources/com/example/bookstore/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9_BookStore/src/main/resources/com/example/bookstore/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2otlDN9gLUzzc3ap5n7USyxvpR0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Volumes/Lakeview/notes/Nodes_Code/Java_c228/WeiTong_007_Lab3",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d502011b-63bb-4aa1-964d-265bb897fb5c" name="Changes" comment="" />
+      <created>1731696632078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731696632078</updated>
+    </task>
+    <servers />
+  </component>
+</project>

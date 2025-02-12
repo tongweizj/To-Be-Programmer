@@ -1,4 +1,6 @@
 package com.centennial.quicknotes.data
 
-class Note {
-}
+data class Note(
+    val title: String,
+    val content: String
+)

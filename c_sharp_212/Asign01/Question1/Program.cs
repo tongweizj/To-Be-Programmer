@@ -23,6 +23,7 @@ namespace Question1
         {
             if (collection == null) throw new ArgumentNullException(nameof(collection), "The collection cannot be null.");
             if (input == null) throw new ArgumentNullException(nameof(input));
+
             foreach (var item in input)
             {
                 collection.Remove(item);

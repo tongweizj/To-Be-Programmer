@@ -20,7 +20,7 @@ namespace CourseManagement
             bool result = true;
             while (result)
             {
-                result = newConsole.getAnswer();
+                result = newConsole.displayMainMenu();
             }
             
             

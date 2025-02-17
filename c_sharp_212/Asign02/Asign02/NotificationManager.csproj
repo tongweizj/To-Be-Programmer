@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B79018F2-CAD6-4BC2-BED7-FED641726E0D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Asign02</RootNamespace>
-    <AssemblyName>Asign02</AssemblyName>
+    <RootNamespace>NotificationManager</RootNamespace>
+    <AssemblyName>NotificationManager</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -23,14 +23,23 @@ namespace CourseManagement
         }
         public static void DisplayCourse(int code)
         {
-            Console.WriteLine(CourseDictionary[code]);
+            Course item;
+            if (CourseDictionary.TryGetValue(code, out item))
+            {
+                Console.WriteLine("For code = \"{0}\", course detail: {1}.\n", code, item.ToString());
+            }
+            else
+            {
+                Console.WriteLine("code = \"{0}\" is not found.\n", code);
+            }
+            //Console.WriteLine(CourseDictionary[code]);
         }
-        // toString
+
         public static void DisplayAll()
         {
             foreach(var item in CourseDictionary)
             {
-                Console.WriteLine(item.ToString());
+                DisplayCourse(item.Key);
             }
             
         }

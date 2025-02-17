@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,104 +17,143 @@ namespace CourseManagement
         {
             this.prompt = prompt;
         }
+        public void setAnswerTimes(int answerTimes) { }
         void setPrompt(String prompt)
         {
             this.prompt = prompt;
         }
-        public void setAnswerTimes(int answerTimes) { }
+       
         void setUserPrompter(int command)
         {
-
             switch (command)
             {
                 case 1:
-                    //显示提示信息
-                    string output = "Please select command\n"+
+                    //main menu
+                    string output = "Main Menu\n"+
                     "1.Insert new course;\n" +
                     "2.Search specific course;\n"+
                     "3.display all course;\n"+
-                    "4.close application;\n"+
-                    "Please input number(1-3): ";
-                    //Console.WriteLine(output);
+                    "4.close application;\n\n"+
+                    "Please input number(1-4): ";
                     setPrompt(output);
                     break;
-                case 2:
-                    //显示提示信息
-                    setPrompt("Please input course name and code!");
-                    
+                case 20:
+                    //course detail
+                    setPrompt("Course Code(4 digits): ");
                     break;
-                case 3:
-                    setPrompt("Display all course!");
+                case 21:
+                    setPrompt("Course Title: ");
+                    break;
+                case 22:
+                    setPrompt("Course Credit: ");
+                    break;
+                case 23:
+                    setPrompt("Course Description: ");
                     break;
             }
         }
-        void runUserCommand(int command)
+        void executeUserCommand(int command)
         {
             switch (command)
             {
                 case 1:
-                    Console.WriteLine("Insert a new course! ");
-                    Course newCourse = new Course(123, "demo", "demoDescription!");
-                    //CourseDict courseDict = new CourseDict();
-                    CourseDict.insert(newCourse);
+                    createCourse();
                     break;
-                //setPrompt(getPrompt() + ". Please answer Y or N: ");
                 case 2:
-                    Console.WriteLine("display the courses!");
-                    CourseDict.DisplayCourse(123);
+                    searchCourse();
                     break;
                 case 3:
-                    Console.WriteLine("display all courses!");
-                    CourseDict.DisplayAll();
+                    displayAllCourses();
                     break;
             }
         }
-        int getUserInput(int command)
+        string getUserInput(int promptNum)
         {
+            // input: prompt number 
+            // output: user input
+
+            int tryNum = 0;
             try
             {
                 string answer = null;
-                while (answer == null || answer.Length < 1)
+                while (answer == null || answer.Length < 1 || tryNum < this.answerTimes)
                 {
-                    setUserPrompter(0);
+                    setUserPrompter(promptNum);
                     Console.WriteLine(this.prompt + " ");
                     answer = Console.ReadLine();
-                   
+                    tryNum++;
+
                 }
-                return int.Parse(answer);
+                return answer;
             }
             catch (IOException ioe)
             {
                 Console.WriteLine(ioe.ToString());
-                // if console I/O fails there is no recovery
-                return 0;
+                return null;
             }
         }
 
-         public bool getAnswer(){
-            int tryNum=0;
-            int command = 1;
-            setUserPrompter(command);
-            int answer = 0;
-            while (answer == 0 && tryNum < this.answerTimes)
-            {
-                answer = getUserInput(command);
-                tryNum++;
-            }
+        public void searchCourse()
+        {
+            Console.WriteLine("\nPlease input course course:");
+            // TODO：code 的业务逻辑检查
+            string code = getUserInput(20);
 
-            if (answer > 0 && answer < 4)
+            // TODO, 异常，如果搜索不到怎么办
+            CourseDict.DisplayCourse(int.Parse(code));
+        }
+        public void createCourse()
+        {
+            Console.WriteLine("\nPlease input course detail information:");
+            bool isNormal = false;
+
+            string code = "";
+            int codeNum = 0;
+            while (!isNormal)
             {
-                runUserCommand(answer);
-                Console.WriteLine(answer);
+                code = getUserInput(20);
+                isNormal = Int32.TryParse(code, out codeNum);
             }
-            else
+            string title = getUserInput(21);
+
+            string credit = "";
+            int creditNum = 0;
+            isNormal = false;
+            while (!isNormal)
+            {
+                credit = getUserInput(22);
+                isNormal = Int32.TryParse(credit, out creditNum);
+            }
+            
+            string description = getUserInput(23);
+
+            Course newCourse = new Course(codeNum, title, description, creditNum);
+            CourseDict.insert(newCourse);
+            Console.WriteLine("Successfully create {0} course!\n", title);
+        }
+
+        public void displayAllCourses()
+        {
+            Console.WriteLine("\nDisplay all courses:");
+            CourseDict.DisplayAll();
+            Console.WriteLine("\n");
+        }
+        public bool displayMainMenu(){
+            
+            // display main menu
+            int userInput = int.Parse(getUserInput(1));
+
+            // check userInput
+            if (userInput > 0 && userInput < 4)
+            {
+                executeUserCommand(userInput);//Execute User's Command
+            }else
             {
                 return false;
             }
             
             return true;
         }
-
     }
     
 }

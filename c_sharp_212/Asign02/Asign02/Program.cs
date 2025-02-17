@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Asign02
+namespace NotificationManager
 {
     internal class Program
     {

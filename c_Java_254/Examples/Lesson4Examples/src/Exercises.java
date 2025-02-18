@@ -24,7 +24,7 @@
 
 /**
  * Code for end-of-chapter exercises on asymptotics.
- *
+ * 渐近论
  * @author Michael T. Goodrich
  * @author Roberto Tamassia
  * @author Michael H. Goldwasser

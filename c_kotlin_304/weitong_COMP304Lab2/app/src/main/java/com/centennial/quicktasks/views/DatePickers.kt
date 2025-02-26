@@ -1,20 +1,40 @@
 package com.centennial.quicktasks.views
 
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Text
+import androidx.compose.material3.rememberDatePickerState
+import androidx.compose.runtime.*
+import androidx.compose.ui.Modifier
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.DateRange
+import androidx.compose.material3.DatePicker
+import androidx.compose.material3.DatePickerDialog
+import androidx.compose.material3.Icon
+import androidx.compose.material3.TextButton
+import androidx.compose.ui.unit.dp
+import java.text.SimpleDateFormat
+import java.util.Calendar
+import java.util.Locale
+
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun DatePickerDocked() {
+fun DatePickerDocked(duedate:String,onSave: (String) -> Unit) {
     var showDatePicker by remember { mutableStateOf(false) }
+    val selectedDateLabel = remember { mutableStateOf(duedate) }
     val datePickerState = rememberDatePickerState()
-    val selectedDate = datePickerState.selectedDateMillis?.let {
-        convertMillisToDate(it)
-    } ?: ""
 
     Box(
         modifier = Modifier.fillMaxWidth()
     ) {
         OutlinedTextField(
-            value = selectedDate,
+            value = selectedDateLabel.value,
             onValueChange = { },
-            label = { Text("DOB") },
+            label = { Text("Due Date") },
             readOnly = true,
             trailingIcon = {
                 IconButton(onClick = { showDatePicker = !showDatePicker }) {
@@ -30,66 +50,56 @@ fun DatePickerDocked() {
         )
 
         if (showDatePicker) {
-            Popup(
-                onDismissRequest = { showDatePicker = false },
-                alignment = Alignment.TopStart
-            ) {
-                Box(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .offset(y = 64.dp)
-                        .shadow(elevation = 4.dp)
-                        .background(MaterialTheme.colorScheme.surface)
-                        .padding(16.dp)
-                ) {
-                    DatePicker(
-                        state = datePickerState,
-                        showModeToggle = false
-                    )
+            fun Long.convertMillisToDate(): String {
+                // Create a calendar instance in the default time zone
+                val calendar = Calendar.getInstance().apply {
+                    timeInMillis = this@convertMillisToDate
+                    // Adjust for the time zone offset to get the correct local date
+                    val zoneOffset = get(Calendar.ZONE_OFFSET)
+                    val dstOffset = get(Calendar.DST_OFFSET)
+                    add(Calendar.MILLISECOND, -(zoneOffset + dstOffset))
                 }
+                // Format the calendar time in the specified format
+                val sdf = SimpleDateFormat("MMM dd, yyyy", Locale.US)
+                return sdf.format(calendar.time)
+            }
+            // DatePickerDialog component with custom colors and button behaviors
+            DatePickerDialog(
+                onDismissRequest = {
+                    // Action when the dialog is dismissed without selecting a date
+                    showDatePicker = false
+                },
+                confirmButton = {
+                    // Confirm button with custom action and styling
+                    TextButton(
+                        onClick = {
+                            // Action to set the selected date and close the dialog
+                            showDatePicker = false
+                            selectedDateLabel.value =
+                                datePickerState.selectedDateMillis?.convertMillisToDate() ?: ""
+
+                            onSave( selectedDateLabel.value)
+                        }
+                    ) {
+                        Text("OK")
+                    }
+                },
+                dismissButton = {
+                    // Dismiss button to close the dialog without selecting a date
+                    TextButton(
+                        onClick = {
+                            showDatePicker = false
+                        }
+                    ) {
+                        Text("CANCEL")
+                    }
+                }
+            ) {
+                // The actual DatePicker component within the dialog
+                DatePicker(
+                    state = datePickerState
+                )
             }
         }
     }
-}
-
-@Composable
-fun DatePickerFieldToModal(modifier: Modifier = Modifier) {
-    var selectedDate by remember { mutableStateOf<Long?>(null) }
-    var showModal by remember { mutableStateOf(false) }
-
-    OutlinedTextField(
-        value = selectedDate?.let { convertMillisToDate(it) } ?: "",
-        onValueChange = { },
-        label = { Text("DOB") },
-        placeholder = { Text("MM/DD/YYYY") },
-        trailingIcon = {
-            Icon(Icons.Default.DateRange, contentDescription = "Select date")
-        },
-        modifier = modifier
-            .fillMaxWidth()
-            .pointerInput(selectedDate) {
-                awaitEachGesture {
-                    // Modifier.clickable doesn't work for text fields, so we use Modifier.pointerInput
-                    // in the Initial pass to observe events before the text field consumes them
-                    // in the Main pass.
-                    awaitFirstDown(pass = PointerEventPass.Initial)
-                    val upEvent = waitForUpOrCancellation(pass = PointerEventPass.Initial)
-                    if (upEvent != null) {
-                        showModal = true
-                    }
-                }
-            }
-    )
-
-    if (showModal) {
-        DatePickerModal(
-            onDateSelected = { selectedDate = it },
-            onDismiss = { showModal = false }
-        )
-    }
-}
-
-fun convertMillisToDate(millis: Long): String {
-    val formatter = SimpleDateFormat("MM/dd/yyyy", Locale.getDefault())
-    return formatter.format(Date(millis))
 }

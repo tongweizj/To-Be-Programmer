@@ -1,25 +1,31 @@
 // ui/detail/NoteDetailScreen.kt
-package com.centennial.quicknotes.ui.detail
+package com.centennial.quicktasks.views
 
+import android.os.Build
+import androidx.annotation.RequiresApi
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.DateRange
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
+import com.centennial.quicktasks.viewModel.NotesViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun NoteDetailScreen(
-    initialTitle: String,
-    initialContent: String,
+    id: String,
     navController: NavController,
-    onSave: (String, String) -> Unit // 新增：保存编辑后的笔记
+    notesViewModel: NotesViewModel,
+    onSave: (String, String, String, String) -> Unit // 新增：保存编辑后的笔记
 ) {
-    var title by remember { mutableStateOf(initialTitle) }
-    var content by remember { mutableStateOf(initialContent) }
+    var note = notesViewModel.getNote(id)
+    var title by remember { mutableStateOf(note.title) }
+    var content by remember { mutableStateOf(note.content) }
+    var dueDate by remember { mutableStateOf(note.dueDate) }
 
     Scaffold(
         topBar = {
@@ -52,6 +58,10 @@ fun NoteDetailScreen(
                 label = { Text("Content") },
                 modifier = Modifier.fillMaxWidth()
             )
+//
+            DatePickerDocked(dueDate, onSave = { newDueDate ->
+                dueDate = newDueDate
+            })
             Spacer(modifier = Modifier.height(16.dp))
             Row {
                 Button(
@@ -64,7 +74,7 @@ fun NoteDetailScreen(
                 Button(
 
                     onClick = {
-                        onSave(title, content)
+                        onSave(id,title, content,dueDate)
                         navController.popBackStack()
                     },
                     modifier = Modifier.weight(1f)
@@ -73,5 +83,5 @@ fun NoteDetailScreen(
                 }
             }
         }
-    }
-}
+
+}}

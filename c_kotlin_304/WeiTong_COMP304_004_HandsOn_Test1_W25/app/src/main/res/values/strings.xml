@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CentennialStudents</string>
+    <string name="app_logo">AppLogo</string>
+    <string name="app_add">AppAdd</string>
 </resources>

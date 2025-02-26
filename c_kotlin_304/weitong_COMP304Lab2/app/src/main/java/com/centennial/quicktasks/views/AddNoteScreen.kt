@@ -1,5 +1,5 @@
 // ui/add/AddNoteScreen.kt
-package com.centennial.quicknotes.ui.add
+package com.centennial.quicktasks.views
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
@@ -9,13 +9,28 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.centennial.quicknotes.data.Note
+import com.centennial.quicktasks.data.Note
+import com.centennial.quicktasks.viewModel.NotesViewModel
+import java.time.LocalDate
+import androidx.compose.ui.graphics.Color
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun AddNoteScreen(navController: NavController, notes: MutableList<Note>) {
+fun AddNoteScreen(navController: NavController, notesViewModel: NotesViewModel) {
     var title by remember { mutableStateOf("") }
     var content by remember { mutableStateOf("") }
+    var dueDate by remember { mutableStateOf("") }
+
+    // Initial state setup for the DatePickerDialog. Specifies to show the picker initially
+    val datePickerState = rememberDatePickerState(initialDisplayMode = DisplayMode.Picker)
+    // State to hold the selected date as a String
+    val selectedDateLabel = remember { mutableStateOf("") }
+    // State to control the visibility of the DatePickerDialog
+    val openDialog = remember { mutableStateOf(false) }
+    // Define the main color for the calendar picker
+    val calendarPickerMainColor = Color(0xFF722276)
+
+
 
     Scaffold(
         topBar = {
@@ -48,6 +63,9 @@ fun AddNoteScreen(navController: NavController, notes: MutableList<Note>) {
                 label = { Text("Content") },
                 modifier = Modifier.fillMaxWidth()
             )
+            DatePickerDocked(dueDate, onSave = { newDueDate ->
+                dueDate = newDueDate
+            })
             Spacer(modifier = Modifier.height(16.dp))
             Row {
                 Button(
@@ -60,7 +78,7 @@ fun AddNoteScreen(navController: NavController, notes: MutableList<Note>) {
                 Button(
                     onClick = {
                         if (title.isNotEmpty() && content.isNotEmpty()) {
-                            notes.add(Note(title, content))
+                            notesViewModel.addNote(title, content, dueDate)
                             navController.popBackStack("notes", false)
                         }
                     },

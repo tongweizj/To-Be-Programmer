@@ -8,8 +8,10 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.packt.chaptereight.data.Cat
 import com.packt.chaptereight.navigation.ContentType
 import com.packt.chaptereight.viewmodel.PetsViewModel
+import kotlinx.serialization.InternalSerializationApi
 import org.koin.androidx.compose.koinViewModel
 
+@OptIn(InternalSerializationApi::class)
 @Composable
 fun PetsScreen(
     onPetClicked: (Cat) -> Unit,
@@ -23,6 +25,7 @@ fun PetsScreen(
         onPetClicked = onPetClicked,
         contentType = contentType,
         petsUIState = petsUIState,
+        petsViewModel= petsViewModel,
         onFavoriteClicked = {
             petsViewModel.updatePet(it)
         }

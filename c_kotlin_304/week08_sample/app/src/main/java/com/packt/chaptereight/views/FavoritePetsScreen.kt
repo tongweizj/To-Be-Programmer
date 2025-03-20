@@ -14,8 +14,10 @@ import androidx.compose.ui.Modifier
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.packt.chaptereight.data.Cat
 import com.packt.chaptereight.viewmodel.PetsViewModel
+import kotlinx.serialization.InternalSerializationApi
 import org.koin.androidx.compose.koinViewModel
 
+@OptIn(InternalSerializationApi::class)
 @Composable
 fun FavoritePetsScreen(
     onPetClicked: (Cat) -> Unit

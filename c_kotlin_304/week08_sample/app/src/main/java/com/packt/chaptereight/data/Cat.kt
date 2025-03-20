@@ -1,14 +1,15 @@
 package com.packt.chaptereight.data
 
 
+import kotlinx.serialization.InternalSerializationApi
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
-@Serializable
+@InternalSerializationApi @Serializable
 data class Cat(
     @SerialName("createdAt")
     val createdAt: String = "",
-    @SerialName("_id")
+    @SerialName("id")
     val id: String,
     @SerialName("owner")
     val owner: String = "",

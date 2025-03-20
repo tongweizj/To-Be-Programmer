@@ -45,5 +45,4 @@ val appModules = module {
     }
     single { get<CatDatabase>().carDao() }
     worker { PetsSyncWorker(get(), get(), get()) }
-
 }

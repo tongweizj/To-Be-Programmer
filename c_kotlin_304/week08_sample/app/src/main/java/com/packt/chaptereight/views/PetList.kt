@@ -26,7 +26,9 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
 import com.packt.chaptereight.data.Cat
+import kotlinx.serialization.InternalSerializationApi
 
+@OptIn(InternalSerializationApi::class)
 @Composable
 fun PetList(
     onPetClicked: (Cat) -> Unit,
@@ -47,7 +49,7 @@ fun PetList(
     }
 }
 
-@OptIn(ExperimentalLayoutApi::class)
+@OptIn(ExperimentalLayoutApi::class, InternalSerializationApi::class)
 @Composable
 fun PetListItem(
     cat: Cat,

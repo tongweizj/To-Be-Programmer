@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08d91147-e68b-46d0-978b-22f0d10734cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../c_Java_254/WeiTong_COMP254Lab3/src/com/exercise1/wei/tong/PrintStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c_Java_254/WeiTong_COMP254Lab3/src/com/exercise1/wei/tong/PrintStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c_Java_254/WeiTong_COMP254Lab3/src/com/exercise3/wei/tong/FindFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c_Java_254/WeiTong_COMP254Lab3/src/com/exercise3/wei/tong/FindFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c_Java_254/week02/254_Lab Assignment 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot_20250219_205750.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot_20250219_205810.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot_20250219_205830.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshot_20250219_205854.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleMVVMApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SimpleMVVMApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/androidTest/java/com/wei/tong/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/java/com/wei/tong/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/java/com/wei/tong/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/java/com/wei/tong/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/java/com/wei/tong/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/app/src/test/java/com/wei/tong/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25-bk/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/androidTest/java/com/wei/tong/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/java/com/wei/tong/ViewModel/StudentsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/java/com/wei/tong/WeiActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/java/com/wei/tong/data/Student.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/java/com/wei/tong/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/java/com/wei/tong/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/java/com/wei/tong/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/java/com/wei/tong/views/TongActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/drawable/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/app/src/test/java/com/wei/tong/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeiTong_COMP304_004_HandsOn_Test1_W25/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../midterm/daemon/8.10.2/registry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../midterm/daemon/8.10.2/registry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../midterm/daemon/8.10.2/registry.bin.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../midterm/daemon/8.10.2/registry.bin.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$ActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$CoilLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$ComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$ComposeUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$CoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$CoroutinesLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$KoinAndroidLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$KoinLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$RetrofitLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$SerializationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$TestComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$TestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$ActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$CoilLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$ComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$ComposeUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$CoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$CoroutinesLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KoinAndroidLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KoinLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$RetrofitLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SerializationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/metadata.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.10.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$ActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$CoilLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$ComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$ComposeUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$CoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$CoroutinesLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$KoinAndroidLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$KoinLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$RetrofitLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$SerializationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$TestComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$TestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$ActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$CoilLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$ComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$ComposeUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$CoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$CoroutinesLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KoinAndroidLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KoinLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$RetrofitLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$SerializationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$TestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/fb3f43096ea563fe290601963c075ddddb0644c8/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/8.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/androidTest/java/com/packt/chaptersix/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/ChapterSixApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/data/Cat.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/data/CatsAPI.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/data/NetworkResult.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/data/Pet.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/data/PetsRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/data/PetsRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/di/Modules.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/viewmodel/PetsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/views/PetList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/java/com/packt/chaptersix/views/PetsUIState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/app/src/test/java/com/packt/chaptersix/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaptersix.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/metadata.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxNavigationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxNavigationRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxNavigationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxNavigationRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/metadata.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/791e77d9b9c84f9f55845b307a83baa0ba4f0624/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxNavigationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxNavigationRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxNavigationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxNavigationRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/metadata.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/c6ea5255810b425564d2c93e63944dd994b34f15/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/8.9/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.idea/week01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2Og2neloGl4Ka3XdIzizzh_UAUI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2fLSsPeanb75Z0g+eu3PTEo+qtY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3jjmXWDRWz9iNobZMaGw2OKHFus=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/48aLeoLOpT7gEDQ0SeK9SzbCG_Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9jMOl33cSKgc_WhAJdYSBOJcyY8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CC3GwI9o2UT93DZBkxPTRoyMstc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CkxhXQKr3jG_FfWsk_lcbcO6Q5Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Cmxt+zxmE2k32l5hZ10X9fNsXYI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DO1jehVeD8dDDPr3nhV46C7q0yA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/E81y+FRcpSKgd+gXb3zrwvVTpyw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/EjeJwOJVpT_FIcxFVksw4USvA3w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Em21zK1mga6w0KBdtzlQpM0quiw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Exf3VKbrOkTOvcv8iAbZMr0JN0k=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GHc7VQCg+htjzwBBpR7uuUXZZIw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/HoCtRGjuraA_SnhbV96M4JIf4u4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JgOUJpm2UmVazu8i3zps8TJ3eDk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KNwtQ9Lm_e1FDQo6ySz6eSOV6Eo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KjfFjJjiqQ_07bt4gmkr5x50lSQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LxMCLsaWuc1IkKzpcG0MS749Xoc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NE+wFsxaFLqIsynhvtl3Sx+kDg0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NUtUzWm1tfQVuEEGYbkf5NzDQJ4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NrCZQEnJxPKC8CMkf7KQuLNxE5Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/P+zoLFgGwmTpWJaeO_N1g7oBX9E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PVtfvNZGFPaHm3OCgbnfoGSXChc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PZb_DA8+aoqV7nC_sYl2b1sqN6Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/P_U6H1eCbmPU3agc4U3dQLs4SsI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QyI4fwNlr78LtZG_XXy83_OClc8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SSYoLR6bzyQ5WEW3LIIfhkwR8X0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Sj9Wvcu4ZsFPV5L7I20Z0DiiD0Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Tbb8rX40HTZ39+5lM1+Iiz+GXME=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U6TNPh6O+JVjktbXoCZZ_Ex_pqU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U8coDKEQiBQxBrs2ZgRzubShzvA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/W3Tl55cl3lojf+FIAYTg3oACJdE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XUnX00Ck0weEojYr5iUwfvKdSOI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_NhVkT+GvI_YrcJ34RLVQIzfHVU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_nN4GnaAlooA8bm4MG0Lmp0mw3I=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_zU4A_ivr1eba2G7WC35K2F_YMw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aPNi42uI24RFEXj8wx01RA+Sq_Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aWwZOCUQMqbzW7am5vwfdv227dM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/acoPNFQI41wEKt+3LxcUNNraUCs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/b_ZRjmPw4UYbPnzHPLs+kAX7LOo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bzmcrbrhkVXOcOW1ELPPLdnbsd0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/d0EyGJ1cO2W5QxHq4dgg2V2+aPY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/e2vZaAFAB8wVA9te2sOcDOVFaJA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fNACBcGc3nVihpNQIk6a8y6Yces=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gGbDW_ap3UarBi3HDxBUV9_k+3w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ghoeWM6ZYNkpPtMu6gpjyzfiqPk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gvt7ke04iV_HdJ_DLb8LM_WHEtI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i1FwganMlkuPrJxSpWdygKSNamY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iB7sKumxLm0qZDvc6LoduneFM1M=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ljTpReH2mkOjWwPCEJLkFD0LfS4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lk6ugb28a+H3zF3BNbz6JqQwlzU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mhYMUg9KG_WZqrCZAnqTvfjado0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/miyi7Ioy6LT8rz6TBxN8mFaY2Bw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mlXhSSt2OqSO7n9ca11ppfa9+9Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oPXs+eBWit3rHG66eb2xZh2ZMjE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/phCVBDPCaWj+4CKMCJdlmJfcsTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qGTLGSzXSGl9woCAR8T2xqP7Wio=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tX0hf1tHn_RFdsr7ivvuooS5kEM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tjFdVWIU2DEUS8_QdVOiy9T5k1c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/v_Nd4Xpz1eAp0_jQRt2RVSqZ9cc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vfHqZUKc0PETJJh1RduBvvcHayA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vmNnlc+Ksgpw4s6tBmPj_8VOzQ0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wH7fDLu_IC4bM3em4TLCFskwjTw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wnrqZuN9uicpgXMddSxAYKi_E84=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xB9CweDOm4Vl+fs3klPyXa_o0bU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xpNpMCCGFJ3fJRY6Li+N0Q_vLjA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yCPEw3rMxN1KrerwFgeQJ5DQcnY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/app/build/kotlin/compileDebugKotlin/local-state/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/8.10.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_activity_activity_1_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_annotation_annotation_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_core_core_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_core_core_ktx_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_core_core_ktx_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_5_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__com_google_android_material_material_1_6_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/modules/KotlinLanguageBasics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/modules/app/KotlinLanguageBasics.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/modules/app/KotlinLanguageBasics.app.unitTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/modules/app/week02.KotlinLanguageBasics.app.androidTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/modules/app/week02.KotlinLanguageBasics.app.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0uqaPcVCBeMTQJj+Nbqoia1gRvU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1wVtoWIm6z1NiwqlkiBQPT4WClc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/30tN4c4XO+GTS35VuYWBlht69uY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/38GeEEmpS_7_DTn9kpmgb62gzs0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3PT56Tdyv_HWdkSFeABOBv7Blcc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4BWujZRZ_m1TG0+DHYMsJ+AmyRE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5Ri5LDRaemCHpsynhWF5Jo4SS1g=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6LQDpw7yHTRZCIuK_osEl9hTIcg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/75Ct4oFd+zNKN7FcW4muowTIYBc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BjvbAB+MYQxg+UnarrUyIJ5kWyM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CGZho4xlgPjFFcQ+4nQI754DY+U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CNtuc_cNOVTOpvZYAeIfGYLVGEY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/F3Qlsn6RCEzkInL2S0LJV7cey2k=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GaZfwmPH9uANU316xyiiCG1auU4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/IDrR3_xvG3Fh9CvEhMoofmZPDjg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/IXMIGDq9t3E8ReEq685bNpqJEGI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Lef2JH6uqjswsfk8QQ5tpRZJD0c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MJGn1F5YrbVog1t0sCZzh5SfR5Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MkPUFFiVSs0WkU9Sz25OxT89jiA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NcEiTOyPxe9hZPMAoXG5JVYXiNs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Nysermu4yZ_UuVzGVQFCWVXCkfQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Owy4oIKAAcJCRYZ3XisuCOU2fh0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QIyR6or038_+Iaxt4Zh9VZHPZwk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/S26CbVor5X6AfjdRZEr596psHFw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SAknh45AlixpvIF8oxHg8ShVzz8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SrUUWX4YYnNAvXjT5E90XsLvs28=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/T5PRZZBDX8mq7_nBFC8pyRJH0DA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TW_RQtBNr7xKaDWWfysuqpP1GoU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VfI41GbnRW8zP26xmmr70GlBCD4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WMCNtpwen9gn7wM8ie3BE8CybZk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Wgf78tSQGKC_2yBHhHe_hnJCpdY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XjxxXEpiYBcHVjiOHo6L+xoqnTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_H1YyP_CigZRU0ZpeXGfHCUOHeo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_Vu5ZK3crDVJeSNayHhPWI3EpLk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/b46c2gadsH_fLnGBux9WnDAQ_Uo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bgGQd7y3cXSbejiO3VRoeazrVsQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cRJ0E5xMPDHYImazD+HeBiQJk8s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/chqO6zvQHUqgQ8nMAm28EBKd1VE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cr_0ftU__GrY1lPzxZb1izil40o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ezngFISkg_MPcr_MvDKB4BntztQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fawmzSNampgmu_a8d_RSPqCP2Xc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gkwdabTdhRO+MvUea4j_QEsZL5Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/glL3gGphWbJED_to1WCjxwcVjEI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gpKpQVPq2SNJJm3svAEgyF0fLPs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/h2URsKa6iYLgd9EF7m2FhVFIt1s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/jqPseugx293164tf6ip8xPKRvOo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/phCVBDPCaWj+4CKMCJdlmJfcsTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/q0D6ckpi06CHZNYJ3XaPvfR608s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rKSIQZbqD1dyK4DxhbDNLDTUz3Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/sm2iu49D9uUENeGsbdAI4sJp1uo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uhW3pVhgvgC8Retivopok3bTLj8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/v5dK0dW+zP16LoVFOdA0UUT5Sfw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/x8HZRTTTvxQqXF7Pgo3OQ+FZopA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xIbwoOMIROW2CvKskysUYAKRoA4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xvJ1VhmeAD1ni5VKus6i3cbsuo4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zJqDsV2XBwzVF04f7lIWsb4Mc4A=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/kotlin/compileDebugKotlin/local-state/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/KotlinLanguageBasics/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/androidTest/java/com/centennial/quicknotes/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/data/Note.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/ui/add/AddNoteScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/ui/detail/NoteDetailScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/ui/home/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/ui/home/NotesScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/java/com/centennial/quicknotes/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/app/src/test/java/com/centennial/quicknotes/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/doc/Screenshot.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/doc/weitong_COMP304Lab1_Ex1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab1/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/androidTest/java/com/centennial/quicktasks/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/AppNavHost.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/data/Note.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/viewModel/NotesViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/views/AddNoteScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/views/DatePickers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/views/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/views/NoteDetailScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/java/com/centennial/quicktasks/views/NotesScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/app/src/test/java/com/centennial/quicktasks/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/androidTest/java/com/centennial/quicknotes/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/data/Note.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/ui/add/AddNoteScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/ui/detail/NoteDetailScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/ui/home/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/ui/home/NotesScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/java/com/centennial/quicknotes/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/app/src/test/java/com/centennial/quicknotes/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weitong_COMP304Lab2_bak/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c_sharp_212/code-exam/Week03 - Code Example.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\maxto\.android\avd\Pixel_9_Pro_XL_API_35.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chaptereight" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chaptereight" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chaptereight" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chaptereight" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tuxNuDWJhKw80cd35NDcw8VNJR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Android App.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Workspace/Nodes_Code/c_kotlin_304/sample/week08"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="chaptereight.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08d91147-e68b-46d0-978b-22f0d10734cf" name="Changes" comment="" />
+      <created>1741215723618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741215723618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.packt.chaptereight">
+          <value>
+            <CheckInfo lastCheckTimestamp="1741818421357" />
+          </value>
+        </entry>
+        <entry key="com.packt.chaptereight.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1741818421358" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

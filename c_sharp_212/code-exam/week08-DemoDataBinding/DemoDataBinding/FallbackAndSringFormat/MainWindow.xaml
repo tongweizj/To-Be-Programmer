@@ -1,0 +1,57 @@
+﻿<Window x:Class="FallbackAndSringFormat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FallbackAndSringFormat"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin"
+                    Value="0,4,20,4" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Margin"
+                    Value="0,4,20,0" />
+            <Setter Property="Padding"
+                    Value="20,4" />
+        </Style>
+    </Window.Resources>
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Label Content="First Name" />
+            <Label Content="Last Name" />
+            <Label Content="Username" />
+            <Label Content="Salary (CAD)" />
+            <Label Content="Email" />
+            <Label Content="Website" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <TextBox x:Name="txtFistName"
+                     Text="{Binding firstName, Mode=TwoWay}" />
+            <TextBox x:Name="txtLastName"
+                     Text="{Binding lastName, Mode=TwoWay}" />
+            <TextBox x:Name="txtUserName"
+                     Text="{Binding userName, Mode=TwoWay}" />
+            <TextBox x:Name="txtSalary"
+                     Text="{Binding salary, Mode=TwoWay, StringFormat={}{0:c} }" />
+            <TextBox x:Name="txtEmail"
+                     Text="{Binding email, Mode=TwoWay, TargetNullValue='Not set'}" />
+            <TextBox x:Name="txtWebsite"
+                     Text="{Binding website, FallbackValue='Not found'}" />
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Right">
+                <Button Content="Cancel" />
+                <Button Content="Add" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

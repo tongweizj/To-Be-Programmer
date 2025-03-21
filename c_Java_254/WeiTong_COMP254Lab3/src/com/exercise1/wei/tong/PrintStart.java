@@ -45,5 +45,5 @@ public class PrintStart {
 		  System.out.println("Username is: " + startnum);  // Output user input
 		  // printStart
 		  printStart(Integer.parseInt(startnum),false);
-		   }
+	  }
 }

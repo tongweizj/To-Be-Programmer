@@ -132,9 +132,10 @@ obj/
 # IntelliJ IDEA
 *.iws
 /out/
-
+./caches
+.idea/*
 # User-specific configurations
-.idea/caches/
+.idea/caches/*
 .idea/libraries/
 .idea/shelf/
 .idea/.name
